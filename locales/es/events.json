@@ -1,0 +1,13 @@
+{
+  "helperText": "Elige los eventos que quieres en tu calendario.",
+  "selectAll": "Seleccionar todo",
+  "saveAndDownload": "Guardar y descargar",
+  "download": "Descargar",
+  "next": "Próximo",
+  "filterTitle": "Filtro",
+  "showAllPursuits": "Mostrar todas las categorías",
+  "eventSingular": "Evento",
+  "eventPlural": "Eventos",
+  "apply": "Aplicar",
+  "noResultText": "No pudimos encontrar ningún evento basado en sus selecciones."
+}

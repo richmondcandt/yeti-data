@@ -1,0 +1,13 @@
+{
+  "helperText": "Wählen Sie die Ereignisse aus, die Sie in Ihrem Kalender haben möchten.",
+  "selectAll": "Alle auswählen",
+  "saveAndDownload": "Speichern & Herunterladen",
+  "next": "Nächste",
+  "download": "Herunterladen",
+  "filterTitle": "Filter",
+  "showAllPursuits": "Alle Kategorien anzeigen",
+  "eventSingular": "Ereignis",
+  "eventPlural": "Ereignisse",
+  "apply": "Anwenden",
+  "noResultText": "Wir konnten aufgrund Ihrer Auswahl keine Veranstaltungen finden."
+}

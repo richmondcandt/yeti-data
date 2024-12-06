@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "event-1",
+    "eventNameEN": "Steelhead Fishing Season",
+    "eventNameES": "Temporada de pesca de trucha arcoíris",
+    "locationES": "Noroeste del Pacífico",
+    "descriptionES": "La temporada de la trucha arcoíris llega a su pico. Esta es una de las mejores oportunidades para capturar el pez de tu vida.",
+    "notificationES": "Puede que haga frío, pero pescar una trucha arcoíris vale la pena. Dirígete al Noroeste del Pacífico y captura el pez de tu vida."
+  },
+  {
+    "id": "event-2",
+    "eventNameEN": "Australia Wave Season",
+    "eventNameES": "Temporada de olas en Australia",
+    "locationES": "Costa Dorada, Australia",
+    "descriptionES": "Monta las olas más grandes a lo largo de la famosa Costa Dorada.",
+    "notificationES": "La Costa Dorada te llama. Sal a disfrutar de las mejores olas y de los legendarios puntos de quiebre."
+  },
+  {
+    "id": "event-3",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Grand Lake",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Grand Lake",
+    "locationES": "Grove, Oklahoma",
+    "descriptionES": "La segunda parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Mira competir a los mejores pescadores universitarios durante la segunda parada de la Major League Fishing College Series."
+  },
+  {
+    "id": "event-4",
+    "eventNameEN": "All In Ice Fest",
+    "eventNameES": "All In Ice Fest",
+    "locationES": "Por determinar",
+    "descriptionES": "Un festival de escalada que tiene el fin de reunir a las personas y, al mismo tiempo, destacar y enaltecer a aquellos grupos históricamente marginados.",
+    "notificationES": "Prepárate para el ALL IN ICE FEST en el parque de escalada en hielo de primera clase de Ouray, Colorado."
+  },
+  {
+    "id": "event-5",
+    "eventNameEN": "Abu Garcia College Fishing Presented by YETI - Kentucky-Barkley Lake",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Kentucky, Barkley Lake",
+    "locationES": "Gilbertsville, Kentucky",
+    "descriptionES": "La tercera parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Mira la pesca universitaria en su máxima expresión. Es la tercera parada en la Major League Fishing College Series 2025."
+  },
+  {
+    "id": "event-6",
+    "eventNameEN": "WSF Sheep Show",
+    "eventNameES": "WSF Sheep Show (Evento de ovejas de la Wild Sheep Foundation)",
+    "locationES": "Reno, Nevada",
+    "descriptionES": "La principal exposición de conservación y caza de montaña de los EE. UU.",
+    "notificationES": "Únete a la comunidad de caza de ovejas en la principal exposición de caza de montaña de los EE. UU."
+  },
+  {
+    "id": "event-7",
+    "eventNameEN": "Cowboy Downhill",
+    "eventNameES": "Cowboy Downhill",
+    "locationES": "Steamboat, Colorado",
+    "descriptionES": "Los vaqueros de rodeo profesionales compiten en el rodeo en esquí más exclusivo del país.",
+    "notificationES": "Observa a los mejores vaqueros de rodeo competir en el rodeo en esquí más exclusivo del país."
+  },
+  {
+    "id": "event-8",
+    "eventNameEN": "Ouray Ice Festival",
+    "eventNameES": "Ouray Ice Festival",
+    "locationES": "Condado de Ouray, Colorado",
+    "descriptionES": "Un festival anual sobre el hielo que transforma a la ciudad de Ouray en una meca de la escalada en hielo.",
+    "notificationES": "¿Quieres probar la escalada en hielo? ¡Ve al Ouray Ice Festival!"
+  },
+  {
+    "id": "event-9",
+    "eventNameEN": "The Shed Showdown",
+    "eventNameES": "The Shed Showdown",
+    "locationES": "Ocean Springs, Misisipi",
+    "descriptionES": "Concurso anual de cocina de filete, donde las habilidades al aire libre se ponen a prueba para ganar dinero en efectivo, premios y trofeos.",
+    "notificationES": "Continúa la batalla por el filete perfecto en la competencia anual Shed Showdown de este año."
+  },
+  {
+    "id": "event-10",
+    "eventNameEN": "FWT - Baqueira Beret Pro",
+    "eventNameES": "FWT, Baqueira Beret Pro",
+    "locationES": "Baqueira Beret, España",
+    "descriptionES": "El Freeride World Tour cruza el charco para disputar la etapa europea en los Pirineos españoles.",
+    "notificationES": "Mira en directo el Freeride World Tour en las pistas de España."
+  },
+  {
+    "id": "event-11",
+    "eventNameEN": "WSL: Pipeline Pro presented by YETI",
+    "eventNameES": "WSL: Pipeline Pro, presentado por YETI",
+    "locationES": "Oahu, HI",
+    "descriptionES": "La World Surf League comienza en el legendario Banzai Pipeline.",
+    "notificationES": "Mira a los mejores surfistas del mundo enfrentarse a las mejores olas del planeta."
+  },
+  {
+    "id": "event-12",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Lake Hartwell",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Lake Hartwell",
+    "locationES": "Anderson, Carolina del Sur",
+    "descriptionES": "La séptima parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Disfruta de la pesca universitaria en su máxima expresión durante la séptima parada en la Major League Fishing College Series 2025."
+  },
+  {
+    "id": "event-13",
+    "eventNameEN": "Kings and Queens of Corbet's",
+    "eventNameES": "Kings and Queens of Corbet’s",
+    "locationES": "Jackson Hole, Wyoming",
+    "descriptionES": "Observa a los mejores esquiadores y snowboarders en Jackson Hole durante una competencia a todo o nada de un día de duración.",
+    "notificationES": "Sintoniza para ver quiénes serán coronados rey y reina de Corbet en esta competencia fuera de pista definitiva."
+  },
+  {
+    "id": "event-14",
+    "eventNameEN": "Michigan Ice Fest",
+    "eventNameES": "Michigan Ice Fest",
+    "locationES": "Munising, Michigan",
+    "descriptionES": "Un destino de escalada en hielo de renombre mundial en la península superior de Míchigan.",
+    "notificationES": "Obtén boletos para practicar escalada en hielo en el hermoso parque Pictured Rocks National Lakeshore."
+  },
+  {
+    "id": "event-15",
+    "eventNameEN": "NWTF Convention",
+    "eventNameES": "Convención de la Federación Nacional de Pavos Salvajes (National Wild Turkey Federation, NWTF)",
+    "locationES": "Nashville, Tennessee",
+    "descriptionES": "La ciudad de la música se suma a la conservación del pavo salvaje.",
+    "notificationES": "Consigue boletos para la convención más importante de caza de pavos salvajes."
+  },
+  {
+    "id": "event-16",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Lake Seminole",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Lake Seminole",
+    "locationES": "Bainbridge, Georgia",
+    "descriptionES": "La primera parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Disfruta de los mejores pescadores universitarios del país en la primera parada de la Major League Fishing College Series."
+  },
+  {
+    "id": "event-17",
+    "eventNameEN": "FWT - Kicking Horse Golden BC Pro",
+    "eventNameES": "FWT, Kicking Horse Golden BC Pro",
+    "locationES": "Kicking Horse, Columbia Británica",
+    "descriptionES": "Champán, nieve en polvo y pistas empinadas aguardan en el Freeride World Tour de Columbia Británica.",
+    "notificationES": "Comienza el Freeride World Tour en Kicking Horse, Columbia Británica."
+  },
+  {
+    "id": "event-18",
+    "eventNameEN": "Miami Boat Show",
+    "eventNameES": "Miami Boat Show",
+    "locationES": "Miami, Florida",
+    "descriptionES": "El evento de embarcaciones y yates más grande del mundo.",
+    "notificationES": "No te pierdas el evento de embarcaciones y yates más grande del mundo."
+  },
+  {
+    "id": "event-19",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Pickwick Lake",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Pickwick Lake",
+    "locationES": "Florence, Alabama",
+    "descriptionES": "La sexta parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Se trata de la pesca universitaria en su máxima expresión: la sexta parada en la Major League Fishing College Series 2025."
+  },
+  {
+    "id": "event-20",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Potomac River",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Río Potomac",
+    "locationES": "Marbury, Maryland",
+    "descriptionES": "La quinta parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Los mejores pescadores universitarios del país compiten en la quinta parada de la Major League Fishing College Series."
+  },
+  {
+    "id": "event-21",
+    "eventNameEN": "Troutfest TX",
+    "eventNameES": "Troutfest TX",
+    "locationES": "New Braunfels, Texas",
+    "descriptionES": "Este evento, el más grande de su tipo, atrae a más de 3,000 pescadores con mosca.",
+    "notificationES": "¡Ya casi llega el Troutfest! Únete a 3,000 pescadores con mosca en uno de los eventos de conservación más grandes de su tipo."
+  },
+  {
+    "id": "event-22",
+    "eventNameEN": "Abu Garcia College Fishing Presented By YETI - Wheeler Lake",
+    "eventNameES": "Abu Garcia College Fishing presentado por YETI - Wheeler Lake",
+    "locationES": "Decatur, Alabama",
+    "descriptionES": "La cuarta parada en la Major League Fishing College Series 2025.",
+    "notificationES": "Es la cumbre de la temporada de pesca de róbalos. No te pierdas ni un minuto de la cuarta parada de la Major League Fishing College Series."
+  },
+  {
+    "id": "event-23",
+    "eventNameEN": "Abu Garcia College National Championship",
+    "eventNameES": "Abu Garcia College National Championship",
+    "locationES": "Wheeler Lake - Decatur, Alabama",
+    "descriptionES": "Los mejores y más brillantes pescadores universitarios de róbalo compiten por el título.",
+    "notificationES": "Disfruta de los jóvenes y más destacados pescadores de róbalo del país en el College National Championship de la MLF."
+  },
+  {
+    "id": "event-24",
+    "eventNameEN": "Bass Fishing Spawn",
+    "eventNameES": "Pesca de róbalos en época de desove",
+    "locationES": "En todo el país",
+    "descriptionES": "Los róbalos comienzan a desovar y tienen hambre. Busca peces en aguas poco profundas y pesca un monstruo.",
+    "notificationES": "¡Comenzó el desove! Ha llegado el mejor momento para la pesca de róbalos."
+  },
+  {
+    "id": "event-25",
+    "eventNameEN": "Reel Rock Film Tour Premiere",
+    "eventNameES": "Reel Rock Film Tour Premiere",
+    "locationES": "Por determinar",
+    "descriptionES": "Un estreno cinematográfico que acerca las mejores películas de escalada a las comunidades de todo el mundo.",
+    "notificationES": "Deja el magnesio y toma las palomitas. Ya casi llega el Reel Rock Film Tour."
+  },
+  {
+    "id": "event-26",
+    "eventNameEN": "FWT - Georgia Pro",
+    "eventNameES": "FWT, Georgia Pro",
+    "locationES": "Georgia",
+    "descriptionES": "La última parada antes del corte para la final. Cruza el Atlántico para ser testigo de la historia de Georgia mientras los esquiadores y snowboarders se adentran en las misteriosas montañas de Bukariani.",
+    "notificationES": "Toca para ver quién llega a la final del Freeride World Tour."
+  },
+  {
+    "id": "event-27",
+    "eventNameEN": "USA Climbing National Team Trials",
+    "eventNameES": "Pruebas para el equipo nacional de escalada de USA Climbing",
+    "locationES": "Por determinar",
+    "descriptionES": "Los mejores escaladores del país compiten por un lugar para representar a los EE. UU. en los eventos del Campeonato y la Copa del Mundo de la Federación Internacional de Escalada Deportiva (International Federation of Sport Climbing, IFSC).",
+    "notificationES": "Sintoniza las pruebas para el equipo nacional de escalada de USA Climbing y descubre quién representará nuestros colores."
+  },
+  {
+    "id": "event-28",
+    "eventNameEN": "Bassmaster Classic",
+    "eventNameES": "Bassmaster Elite Series @ Lake Fork",
+    "locationES": "Fort Worth, Texas",
+    "descriptionES": "La mayor competencia de la pesca de róbalos. Pasa por la Outdoor Expo y disfruta de la presencia de más de 200 expositores.",
+    "notificationES": "La madre de todos los torneos de pesca de róbalos está por comenzar. El Bassmaster Classic comienza este fin de semana."
+  },
+  {
+    "id": "event-29",
+    "eventNameEN": "Natural Selection - Revelstoke",
+    "eventNameES": "Natural Selection, Revelstoke",
+    "locationES": "Revelstoke, Columbia Británica",
+    "descriptionES": "Ve a los mejores esquiadores y snowboarders del mundo competir en terreno inalterado en el Natural Selection, en Revelstoke, Columbia Británica.",
+    "notificationES": "Sintoniza para ver a los mejores esquiadores y snowboarders del mundo competir mientras dan inicio al Natural Selection en Revelstoke, Columbia Británica."
+  },
+  {
+    "id": "event-30",
+    "eventNameEN": "WSL: Portugal Pro",
+    "eventNameES": "Portugal Pro",
+    "locationES": "Peniche, Portugal",
+    "descriptionES": "La World Surf League llega a Portugal, donde los surfistas se enfrentan a la legendaria Supertubos.",
+    "notificationES": "El Championship Tour solo para en Europa una vez. No te lo pierdas."
+  },
+  {
+    "id": "event-31",
+    "eventNameEN": "Bassmaster Elite Series @ Lake Fork",
+    "eventNameES": "Bassmaster Elite Series en Lake Fork",
+    "locationES": "Yantis, Texas",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo se dirige al Estado de la Estrella Solitaria.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-32",
+    "eventNameEN": "The American Rodeo",
+    "eventNameES": "The American Rodeo",
+    "locationES": "Arlington, TX",
+    "descriptionES": "La joya más preciada del rodeo. Aficionados calificados compiten contra los mejores atletas profesionales de rodeo.",
+    "notificationES": "Aficionados vs. profesionales. Mira cómo todo se sacude en The American Rodeo en Arlington, Texas."
+  },
+  {
+    "id": "event-33",
+    "eventNameEN": "FWT - Fieberbrunn Pro",
+    "eventNameES": "FWT, Fieberbrunn Pro",
+    "locationES": "Fieberbrunn, Austria",
+    "descriptionES": "El primer evento de las finales del Freeride World Tour en Fieberbrunn, donde los atletas deben enfrentarse a la intimidante Wildseeloder.",
+    "notificationES": "Solo los mejores lograrán superar la Wildseeloder. Sintonizar."
+  },
+  {
+    "id": "event-34",
+    "eventNameEN": "Bassmaster Elite Series @ Lake Hartwell",
+    "eventNameES": "Bassmaster Elite Series en Lake Hartwell",
+    "locationES": "Anderson, Carolina del Sur",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo hace una parada en el cuarto evento de la temporada.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-34",
+    "eventNameEN": "Bassmaster Elite Series @ Lake Hartwell",
+    "eventNameES": "Bassmaster Elite Series en Lake Hartwell",
+    "locationES": "Anderson, Carolina del Sur",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo se dirige a Carolina del Sur.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-35",
+    "eventNameEN": "Meatstock",
+    "eventNameES": "Meatstock",
+    "locationES": "Hamilton, Nueva Zelanda",
+    "descriptionES": "La carne se combina con la música en el impresionante festival de parrillada de Nueva Zelanda y Australia, que inicia su recorrido en Hamilton.",
+    "notificationES": "ILlegó el momento de dar inicio al gran festival de carne y música de Nueva Zelanda y Australia en Hamilton."
+  },
+  {
+    "id": "event-36",
+    "eventNameEN": "Freeride World Tour - YETI Xtreme Verbier",
+    "eventNameES": "Freeride World Tour, YETI Xtreme Verbier",
+    "locationES": "Verbier, Suiza",
+    "descriptionES": "La última parada del Freeride World Tour. ¿Quién ganará el título de campeón del mundo?",
+    "notificationES": "Mira el ascenso de un campeón del mundo al concluir el Freeride World Tour."
+  },
+  {
+    "id": "event-37",
+    "eventNameEN": "WSL: Bells Beach",
+    "eventNameES": "Bells Beach",
+    "locationES": "Torquay, Victoria",
+    "descriptionES": "El evento más icónico y más largo de la World Surf League.",
+    "notificationES": "“¡Solo los mejores se llevan la victoria en Bells Beach!” Disfruta del Rip Curl Pro en Bells Beach."
+  },
+  {
+    "id": "event-38",
+    "eventNameEN": "Spring Turkey Season",
+    "eventNameES": "Temporada del pavo de primavera",
+    "locationES": "En todo el país",
+    "descriptionES": "La temporada del pavo salvaje comienza a ponerse interesante. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Se acerca la primavera, así que prepárate para perseguir algunos pavos machos."
+  },
+  {
+    "id": "event-39",
+    "eventNameEN": "Ground Swell Adventures - Nootka Sound",
+    "eventNameES": "Ground Swell Adventures, estrecho de Nutca",
+    "locationES": "Isla de Vancouver",
+    "descriptionES": "Raph Bruhwiler guía viajes inolvidables con olas, lobos y naturaleza salvaje. Reservas disponibles para primavera y otoño.",
+    "notificationES": "Explora la remota Isla de Vancouver con el embajador Raph Bruhwiler."
+  },
+  {
+    "id": "event-40",
+    "eventNameEN": "Branding Season",
+    "eventNameES": "Temporada de marcado",
+    "locationES": "En todo el país",
+    "descriptionES": "El marcado se lleva a cabo en ranchos de todo el país antes del pastoreo de verano.",
+    "notificationES": "Reúne a la familia, los amigos y el ganado. Es temporada de marcado."
+  },
+  {
+    "id": "event-41",
+    "eventNameEN": "Total Archery Challenge Tour",
+    "eventNameES": "Gira de Total Archery Challenge",
+    "locationES": "En todo el país",
+    "descriptionES": "Desafíos de puntería para todos los niveles de destreza en caza con arco, con paradas en varios lugares.",
+    "notificationES": "Toma tu arco y participa de uno de los mejores eventos deportivos al aire libre de los EE. UU. Fechas por determinar."
+  },
+  {
+    "id": "event-42",
+    "eventNameEN": "Tarpon Fishing Season",
+    "eventNameES": "Temporada de pesca de sábalo",
+    "locationES": "Cayos de la Florida, Florida",
+    "descriptionES": "El sábalo está pasando por los Cayos. Reserva tu viaje y captura el pez de tu vida.",
+    "notificationES": "Dirígete a los Cayos y captura a tu rey plateado."
+  },
+  {
+    "id": "event-43",
+    "eventNameEN": "Bassmaster Elite Series @ Lake Okeechobee",
+    "eventNameES": "Bassmaster Elite Series en Lake Okeechobee",
+    "locationES": "Okeechobee, Florida",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo celebra su segundo evento de la temporada.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-44",
+    "eventNameEN": "Bassmaster Elite Series @ Pasquotank River / Albemarle Sound",
+    "eventNameES": "Bassmaster Elite Series en el río Pasquotank",
+    "locationES": "Elizabeth City, Carolina del Norte",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo se traslada a Carolina del Norte para el tercer evento de la temporada.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-45",
+    "eventNameEN": "The Uninvited Invitational",
+    "eventNameES": "The Uninvited Invitational",
+    "locationES": "Por determinar",
+    "descriptionES": "El concurso de snowboard femenino más grande que existe. Acompáñanos a presenciar cómo algunas de las mejores snowboarders del mundo llegan al siguiente nivel.",
+    "notificationES": "Sé testigo de la competencia de snowboard femenino más grande de la historia."
+  },
+  {
+    "id": "event-46",
+    "eventNameEN": "WSL: Western Australia Margaret River Pro",
+    "eventNameES": "Western Australia Margaret River Pro",
+    "locationES": "Margaret River, Australia Occidental",
+    "descriptionES": "Los mejores surfistas se enfrentan en Margaret River para ver quién logra clasificar al resto de la gira de la WSL.",
+    "notificationES": "Mira a los mejores surfistas de la gira enfrentarse en Australia Occidental."
+  },
+  {
+    "id": "event-47",
+    "eventNameEN": "Red Bluff Round Up",
+    "eventNameES": "Red Bluff Round Up",
+    "locationES": "Red Bluff, CA",
+    "descriptionES": "Una de las paradas más antiguas en el circuito de la Professional Rodeo Cowboys Association.",
+    "notificationES": "Obtén tus boletos para el rodeo de 3 días más grande del país."
+  },
+  {
+    "id": "event-48",
+    "eventNameEN": "Bassmaster Elite Series @ St. Johns River",
+    "eventNameES": "Bassmaster Elite Series en el río St. Johns",
+    "locationES": "Palatka, Florida",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo comienza en el río St. Johns",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-49",
+    "eventNameEN": "Big Bass Tour - Clarks Hill",
+    "eventNameES": "Big Bass Tour - Clarks Hill",
+    "locationES": "Clarks Hill, Georgia",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Pescar. Pesar. Liberar. Los pesajes por hora y la posibilidad de ganar más premios en efectivo hacen que no quieras perderte este evento de 3 días."
+  },
+  {
+    "id": "event-50",
+    "eventNameEN": "Big Bass Tour - Douglas Lake",
+    "eventNameES": "Big Bass Tour - Douglas Lake",
+    "locationES": "Douglas Lake, Tennessee",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Pescar. Liberar. Repetir. En este evento de tres días se da la bienvenida a pescadores de todos los niveles."
+  },
+  {
+    "id": "event-50",
+    "eventNameEN": "Big Bass Tour - Douglas Lake",
+    "eventNameES": "Big Bass Tour - Douglas Lake (segundo)",
+    "locationES": "Douglas Lake, Tennessee",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Pescar. Liberar. Repetir. En este evento de tres días se da la bienvenida a pescadores de todos los niveles."
+  },
+  {
+    "id": "event-50",
+    "eventNameEN": "Big Bass Tour - Douglas Lake",
+    "eventNameES": "Big Bass Tour - Lake Murray (segundo)",
+    "locationES": "Lake Murray, Carolina del Sur",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Pescar. Pesar. Liberar. Los pesajes por hora y la posibilidad de ganar más premios en efectivo hacen que no quieras perderte este evento de 3 días."
+  },
+  {
+    "id": "event-51",
+    "eventNameEN": "Mongo Offshore",
+    "eventNameES": "MONGO Offshore",
+    "locationES": "Por determinar",
+    "descriptionES": "Más de 200 equipos y de 3,000 pescadores compiten en un torneo de pesca en alta mar de varias especies que dura toda la temporada.",
+    "notificationES": "Más de 200 equipos y de 3,000 pescadores. ¡Que comience el torneo!"
+  },
+  {
+    "id": "event-52",
+    "eventNameEN": "National Barbecue Month",
+    "eventNameES": "Mes Nacional de la Parrillada",
+    "locationES": "En todas partes",
+    "descriptionES": "Una celebración de la parrillada que dura todo un mes. Es el momento perfecto para encender el ahumador y disfrutar del calor reconfortante.",
+    "notificationES": "Después de descansar durante 11 meses, llega el Mes Nacional de la Parrillada."
+  },
+  {
+    "id": "event-53",
+    "eventNameEN": "Cheeky Schoolie Tournament",
+    "eventNameES": "Cheeky Schoolie Tournament",
+    "locationES": "Cabo Cod, Massachusetts",
+    "descriptionES": "El torneo de pesca con mosca más grande del mundo.",
+    "notificationES": "Regístrate en el torneo de vadeo de pesca con mosca, de captura y liberación más grande del mundo."
+  },
+  {
+    "id": "event-54",
+    "eventNameEN": "Tuna Fishing Season",
+    "eventNameES": "Temporada de pesca de atún",
+    "locationES": "San Diego, California",
+    "descriptionES": "El verano es la mejor época del año para capturar el atún de tu vida.",
+    "notificationES": "Dos palabras: ATUNES GRANDES. Este es el momento de ir a alta mar para una pesca épica de atún."
+  },
+  {
+    "id": "event-55",
+    "eventNameEN": "Emerald Coast Big Game Fishing Club Billfish Extravaganza",
+    "eventNameES": "Emerald Coast Big Game Fishing Club Billfish Extravaganza",
+    "locationES": "Destin, Florida",
+    "descriptionES": "Un torneo de captura y liberación de marlín, atún, dorado, peto y pez espada en el corazón de la pesca deportiva de EE. UU.",
+    "notificationES": "Dorado, peto y marlín, ¡Dios mío! Es un gran espectáculo en el corazón de la pesca deportiva: EE. UU."
+  },
+  {
+    "id": "event-56",
+    "eventNameEN": "Big Bass Tour - Guntersville Lake",
+    "eventNameES": "Big Bass Tour - Guntersville Lake",
+    "locationES": "Guntersville, Alabama",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Observa a pescadores de todos los niveles pescar, pesar y liberar róbalos. Este evento de 3 días lleno de acción incluye pesajes por hora y varios premios en efectivo."
+  },
+  {
+    "id": "event-57",
+    "eventNameEN": "West Coast Triple Plank",
+    "eventNameES": "West Coast Triple Plank",
+    "locationES": "Tofino y Mt. Washington, Isla de Vancouver",
+    "descriptionES": "Un concurso amistoso de esquí, snowboard, skateboarding y surf para recaudar fondos para @reddfishrestoration.",
+    "notificationES": "Practica esquí, snowboard, skateboarding y surf por una causa en el West Coast Triple Plank. Registrarse."
+  },
+  {
+    "id": "event-58",
+    "eventNameEN": "Big Bass Tour - Harris Chain",
+    "eventNameES": "Big Bass Tour - Harris Chain",
+    "locationES": "Harris Chain of Lakes, Florida",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos se pesan cada hora durante todo este evento de 3 días.",
+    "notificationES": "Observa a pescadores de todos los niveles competir para ganar varios premios en efectivo durante los pesajes por hora."
+  },
+  {
+    "id": "event-59",
+    "eventNameEN": "Big Bass Tour - Lake Chickamauga",
+    "eventNameES": "Big Bass Tour - Lake Chickamauga",
+    "locationES": "Chickamauga, Tennessee",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Todos los pescadores, todos los niveles. Con pesajes por hora y premios, ¡que comience la pesca!"
+  },
+  {
+    "id": "event-60",
+    "eventNameEN": "Western Heritage Classic",
+    "eventNameES": "Western Heritage Classic",
+    "locationES": "Abilene, TX",
+    "descriptionES": "Este encuentro reúne a la comunidad ranchera para un fin de semana de artesanías del oeste, ventas, rodeo ranchero y concursos de cocina en carretas.",
+    "notificationES": "Obtén tu pase para este evento de rodeo ranchero y feria comercial en Abilene."
+  },
+  {
+    "id": "event-61",
+    "eventNameEN": "PBR World Finals",
+    "eventNameES": "PBR World Finals",
+    "locationES": "Fort Worth, TX",
+    "descriptionES": "Los mejores jinetes de toros del mundo compiten por el título de campeón mundial en las PBR World Finals.",
+    "notificationES": "Es el escenario más grande para los jinetes de toros profesionales. ¡Obtén tus boletos hoy mismo!"
+  },
+  {
+    "id": "event-62",
+    "eventNameEN": "Orange Beach Billfish Classic",
+    "eventNameES": "Orange Beach Billfish Classic",
+    "locationES": "Orange Beach, Alabama",
+    "descriptionES": "Un torneo de pesca mayor con captura y liberación en la costa del Golfo de Alabama, donde el marlín azul supera las 700 libras (317 kg).",
+    "notificationES": "Captura y libera con estilo. En este lugar, el marlín azul supera las 700 libras (317 kg). Este es un evento imperdible."
+  },
+  {
+    "id": "event-63",
+    "eventNameEN": "Big Bass Tour - Lake Conroe",
+    "eventNameES": "Big Bass Tour - Lake Conroe",
+    "locationES": "Conroe, Texas",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante este evento de 3 días en un lago que es conocido por tener peces grandes.",
+    "notificationES": "Observa a pescadores de todos los niveles pescar, pesar y liberar róbalos. Este evento de 3 días lleno de acción incluye pesajes por hora y varios premios en efectivo."
+  },
+  {
+    "id": "event-64",
+    "eventNameEN": "Big Bass Tour - Lake Murray",
+    "eventNameES": "Big Bass Tour - Lake Murray",
+    "locationES": "Lake Murray, Carolina del Sur",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "¿Quién pesca el róbalo más grande? Solo hay una manera de averiguarlo. Mira."
+  },
+  {
+    "id": "event-65",
+    "eventNameEN": "Walkers Cay Invitational",
+    "eventNameES": "Walkers Cay Invitational",
+    "locationES": "Cayo Walker, Bahamas",
+    "descriptionES": "Cincuenta embarcaciones compiten en un torneo en alta mar en el Caribe por un premio de 1,000,000 USD.",
+    "notificationES": "Los pescadores de todo el mundo quieren participar. Disfruta de la mejor pesca en aguas profundas."
+  },
+  {
+    "id": "event-66",
+    "eventNameEN": "Mountainfilm",
+    "eventNameES": "Mountainfilm",
+    "locationES": "Telluride, Colorado",
+    "descriptionES": "Uno de los festivales de cine más antiguos de los Estados Unidos en el que se proyectan películas independientes de todo el mundo.",
+    "notificationES": "Prepárate para uno de los festivales de cine más antiguos de los Estados Unidos en Telluride, Colorado."
+  },
+  {
+    "id": "event-67",
+    "eventNameEN": "USA Climbing World Cup",
+    "eventNameES": "Copa del Mundo de Escalada de USA Climbing",
+    "locationES": "Por determinar",
+    "descriptionES": "Los mejores escaladores de los Estados Unidos representan al país y compiten contra los mejores del mundo.",
+    "notificationES": "¿Quién llegará a la cima? Sintoniza la Copa del Mundo de Escalada de USA Climbing."
+  },
+  {
+    "id": "event-68",
+    "eventNameEN": "WSL: Tahiti Pro",
+    "eventNameES": "Tahiti Pro",
+    "locationES": "Polinesia Francesa",
+    "descriptionES": "La World Surf League llega a Tahití en la undécima parada de la gira de la WSL.",
+    "notificationES": "No te pierdas la World Surf League en Tahití y una de las olas más fuertes de la gira: Teahupo'o."
+  },
+  {
+    "id": "event-69",
+    "eventNameEN": "Jackson Hole Rodeo",
+    "eventNameES": "Jackson Hole Rodeo",
+    "locationES": "Jackson, WY",
+    "descriptionES": "Se realizan varios rodeos abiertos por semana durante todo el verano, y todo termina con las finales de YETI.",
+    "notificationES": "El fin de semana del Día de los Caídos ha llegado. Prepárate para todo un verano repleto de eventos de rodeo abierto cada semana."
+  },
+  {
+    "id": "event-70",
+    "eventNameEN": "Ladies Fish Off",
+    "eventNameES": "Ladies Fish Off",
+    "locationES": "Pompano Beach, Florida",
+    "descriptionES": "Este torneo de pesca exclusivo para mujeres es un verdadero testimonio de la comunidad pesquera en el sudeste de Florida y se lleva a cabo desde 1986. El primer evento exclusivo para mujeres de su tipo.",
+    "notificationES": "Ve el mejor torneo de pesca exclusivo para mujeres de su tipo. Observa a las mujeres pescar durante el Ladies Fish Off."
+  },
+  {
+    "id": "event-71",
+    "eventNameEN": "Cajun Canyons",
+    "eventNameES": "Cajun Canyons",
+    "locationES": "Venice, Los Ángeles",
+    "descriptionES": "Un evento de clasificación para algunos de los torneos más importantes en el corazón del delta de Luisiana.",
+    "notificationES": "Sé testigo de las mayores capturas en el “paraíso del deportista”, cuna de la pesca deportiva de categoría mundial."
+  },
+  {
+    "id": "event-72",
+    "eventNameEN": "Wet Season Surfing in Costa Rica",
+    "eventNameES": "Surf en la temporada de lluvias en Costa Rica",
+    "locationES": "Costa Pacífica, Costa Rica",
+    "descriptionES": "Los oleajes del suroeste acercan las olas más grandes a la Costa Pacífica de Costa Rica.",
+    "notificationES": "La temporada de surf de verano ya llegó. Ve a la Costa Pacífica de Costa Rica para disfrutar de las olas y aguas cálidas."
+  },
+  {
+    "id": "event-73",
+    "eventNameEN": "Mississippi Gulf Coast Billfish Classic",
+    "eventNameES": "Mississippi Gulf Coast Billfish Classic",
+    "locationES": "Biloxi, Misisipi",
+    "descriptionES": "Por algo es el número uno en la lista de torneos imperdibles del Golfo de México. Récords de pesca y millones en premios.",
+    "notificationES": "Uno de los torneos de pesca más populares está a punto de comenzar en el Golfo de México."
+  },
+  {
+    "id": "event-74",
+    "eventNameEN": "Big Bass Tour - Smith Mountain Lake",
+    "eventNameES": "Big Bass Tour - Smith Mountain Lake",
+    "locationES": "Smith Mountain Lake, Virginia",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Se trata de lanzar el anzuelo, pescar y liberar. Y debe hacerse rápido. Descubre quién pesca el róbalo más grande."
+  },
+  {
+    "id": "event-75",
+    "eventNameEN": "Big Bass Tour - Table Rock Lake",
+    "eventNameES": "Big Bass Tour - Table Rock Lake",
+    "locationES": "Table Rock, Misuri",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "¡Atención pescadores! Disfruta de esta competencia con pesajes por hora y premios en efectivo."
+  },
+  {
+    "id": "event-76",
+    "eventNameEN": "Pensacola International",
+    "eventNameES": "Pensacola International",
+    "locationES": "Pensacola, Florida",
+    "descriptionES": "El 54.º torneo anual de pesca de marlín, organizado en asociación con la Billfish Foundation.",
+    "notificationES": "Está a punto de comenzar el torneo de pesca de marlín más grande del país desde 1970."
+  },
+  {
+    "id": "event-77",
+    "eventNameEN": "Big Bass Tour - Upper Mississippi",
+    "eventNameES": "Big Bass Tour - Río Upper Mississippi",
+    "locationES": "La Crosse, Wisconsin",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Todos los pescadores, todos los niveles. Con pesajes por hora y premios, que comience la pesca."
+  },
+  {
+    "id": "event-78",
+    "eventNameEN": "Don Hawley Invitational Tarpon Tournament",
+    "eventNameES": "Don Hawley Invitational Tarpon Tournament",
+    "locationES": "Islamorada, Florida",
+    "descriptionES": "Un torneo anual de pesca de sábalo de cinco días que se lleva a cabo desde 1975.",
+    "notificationES": "Cinco días persiguiendo a los reyes plateados. El Don Hawley Tarpon Tournament está por comenzar."
+  },
+  {
+    "id": "event-79",
+    "eventNameEN": "WSL: Surf City El Salvador Pro",
+    "eventNameES": "Surf City El Salvador Pro",
+    "locationES": "Punta Roca, La Libertad, El Salvador",
+    "descriptionES": "Los competidores de la World Surf League regresan a El Salvador para enfrentar los mejores puntos de quiebre perfectos para surfear.",
+    "notificationES": "Mantente atento y mira la World Surf League competir en otra ubicación de ensueño."
+  },
+  {
+    "id": "event-80",
+    "eventNameEN": "Gold Cup Tarpon Tournament",
+    "eventNameES": "Gold Cup Tarpon Tournament",
+    "locationES": "Islamorada, Florida",
+    "descriptionES": "Veinticinco pescadores compiten en el “Wimbledon” de la pesca de sábalo.",
+    "notificationES": "Sintoniza el “Wimbledon” de la pesca de sábalo. ¿Quién ganará la medalla de oro de los reyes plateados?"
+  },
+  {
+    "id": "event-81",
+    "eventNameEN": "Summer Barbecue Season",
+    "eventNameES": "Temporada de parrilladas de verano",
+    "locationES": "Tu patio trasero",
+    "descriptionES": "Con el primer día de verano, comienza oficialmente la temporada de parrilladas en el patio trasero.",
+    "notificationES": "Si hay carne, hay parrillada. Ha llegado el primer día de la temporada de parrilladas de verano."
+  },
+  {
+    "id": "event-82",
+    "eventNameEN": "Hatteras Marlin Club",
+    "eventNameES": "Hatteras Marlin Club",
+    "locationES": "Hatteras, Carolina del Norte",
+    "descriptionES": "Una semana de pesca con amigos y buena comida. Este torneo de captura y liberación se organiza en asociación con nuestros colegas de la Billfish Foundation.",
+    "notificationES": "Pasa una semana pescando con amigos y buena comida durante este torneo de pesca y liberación de marlín."
+  },
+  {
+    "id": "event-83",
+    "eventNameEN": "Major League Fishing - Heavy Hitters",
+    "eventNameES": "Major League Fishing - Heavy Hitters",
+    "locationES": "Smith Mountain Lake - Condado de Franklin, Virginia",
+    "descriptionES": "Evento estelar de mitad de temporada del Bass Pro Tour de la Major League Fishing. Los pescadores compiten durante toda la temporada para tener una oportunidad adicional de ganar buen dinero.",
+    "notificationES": "No te pierdas este evento estelar en el que los pescadores compiten durante toda la temporada para tener la oportunidad de ganar buen dinero."
+  },
+  {
+    "id": "event-84",
+    "eventNameEN": "WSL: Saquarema Pro",
+    "eventNameES": "Saquarema Pro",
+    "locationES": "Saquarema, Brasil",
+    "descriptionES": "La World Surf League viaja de nuevo a Saquarema, Brasil.",
+    "notificationES": "No te pierdas la novena parada del World Surf Tour: Saquarema, Brasil."
+  },
+  {
+    "id": "event-85",
+    "eventNameEN": "U.S. Open of Surfing",
+    "eventNameES": "U.S. Open of Surfing",
+    "locationES": "Huntington Beach, CA",
+    "descriptionES": "El festival deportivo activo y competencia de surf más grande del mundo comienza este mes.",
+    "notificationES": "No te pierdas la competencia de surf más grande del mundo en la ciudad del surf: Huntington Beach."
+  },
+  {
+    "id": "event-86",
+    "eventNameEN": "4th of July",
+    "eventNameES": "4 de julio",
+    "locationES": "EE. UU.",
+    "descriptionES": "Feliz cumpleaños a los EE. UU. Celebra con las pinzas de parrillada en una mano y con una cerveza fría en la otra.",
+    "notificationES": "Que este 4 de julio sea el más frío de tu vida."
+  },
+  {
+    "id": "event-87",
+    "eventNameEN": "Calgary Stampede",
+    "eventNameES": "Calgary Stampede",
+    "locationES": "Calgary, Alberta, Canadá",
+    "descriptionES": "Mira a los competidores de rodeo más fuertes del mundo en “el espectáculo al aire libre más grande de la Tierra”.",
+    "notificationES": "Finalmente llegó “el espectáculo al aire libre más grande de la Tierra”. ¡No te pierdas esta oportunidad!"
+  },
+  {
+    "id": "event-88",
+    "eventNameEN": "ICAST",
+    "eventNameES": "ICAST",
+    "locationES": "Orlando, Florida",
+    "descriptionES": "La feria comercial de pesca deportiva más grande del mundo.",
+    "notificationES": "Es hora de renovar tu equipo. La feria comercial de pesca deportiva más grande del mundo es este fin de semana."
+  },
+  {
+    "id": "event-89",
+    "eventNameEN": "International Climbers' Festival",
+    "eventNameES": "International Climbers’ Festival",
+    "locationES": "Por determinar",
+    "descriptionES": "Relaciónate con escaladores y haz crecer tu círculo en el festival de escaladores más antiguo del mundo.",
+    "notificationES": "Escapa a Wyoming este fin de semana para asistir al festival de escaladores más antiguo del mundo."
+  },
+  {
+    "id": "event-90",
+    "eventNameEN": "National High School Finals Rodeo",
+    "eventNameES": "National High School Finals Rodeo",
+    "locationES": "Rock Springs, WY",
+    "descriptionES": "Vienen estudiantes de secundaria de 6 países diferentes para competir contra los mejores jóvenes del mundo en el National High School Finals Rodeo.",
+    "notificationES": "Obtén boletos para ver a la próxima generación de campeones de rodeo competir en el National High School Finals Rodeo."
+  },
+  {
+    "id": "event-91",
+    "eventNameEN": "Texas Billfish Classic",
+    "eventNameES": "Texas Billfish Classic",
+    "locationES": "Port O’Connor, Texas",
+    "descriptionES": "En el Texas Gulf Coast Billfish Classic de 2025, podrán pescarse especies populares, como el marlín azul y blanco.",
+    "notificationES": "Mira a los mejores pescadores competir por grandes peces en la costa de Texas."
+  },
+  {
+    "id": "event-92",
+    "eventNameEN": "Duck Hunters EXPO",
+    "eventNameES": "Duck Hunters Expo (EXPO de Caza de Patos)",
+    "locationES": "Oklahoma City, Oklahoma",
+    "descriptionES": "Una gran exposición anual de caza de patos y concurso de llamados organizado por Delta Waterfowl.",
+    "notificationES": "Cazadores, escuchen el llamado. Consigue boletos para la gran exposición de caza de patos en Oklahoma."
+  },
+  {
+    "id": "event-93",
+    "eventNameEN": "Major League Fishing - REDCREST",
+    "eventNameES": "Major League Fishing - REDCREST",
+    "locationES": "Lake Guntersville - Huntsville, Alabama",
+    "descriptionES": "Los mejores pescadores del torneo de Bass Pro Tour de la MLF se dirigen a Redcrest para competir por 300,000 USD.",
+    "notificationES": "El evento de Campeonato para pescadores de la Major League Fishing. Sintoniza el MLF Redcrest este fin de semana."
+  },
+  {
+    "id": "event-94",
+    "eventNameEN": "Brewery and the Beast",
+    "eventNameES": "Brewery and the Beast",
+    "locationES": "Canadá (Vancouver, Calgary, Isla de Vancouver)",
+    "descriptionES": "Brewery and the Beast es un evento culinario único que reúne a un extraordinario grupo de chefs y fabricantes de bebidas para ofrecer un festín de carnes asadas a las llamas, cervezas artesanales, cócteles, sidras y vinos.",
+    "notificationES": "¿Estás listo para un festival lleno de carne, cerveza y música? Disculpa si parece una pregunta retórica."
+  },
+  {
+    "id": "event-95",
+    "eventNameEN": "Wild Sheep Season",
+    "eventNameES": "Temporada de borregos salvajes",
+    "locationES": "Territorios del Noroeste",
+    "descriptionES": "Ya llegó la temporada de caza del borrego cimarrón salvaje. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "La caza ha comenzado. Atrapa al carnero de tus sueños este año."
+  },
+  {
+    "id": "event-96",
+    "eventNameEN": "Big Grill Festival",
+    "eventNameES": "Big Grill Festival",
+    "locationES": "Dublín, Irlanda",
+    "descriptionES": "Del 14 al 17 de agosto de 2025, los mejores chefs y maestros parrilleros internacionales se dirigen a Dublín para el Festival de Parrillada y Comida más grande de Irlanda.",
+    "notificationES": "Prepárate, Dublín, llegó el Festival de Parrillada y Comida de Europa."
+  },
+  {
+    "id": "event-97",
+    "eventNameEN": "Alaska Salmon and Trout Fishing Season",
+    "eventNameES": "Temporada de pesca de trucha y salmón en Alaska",
+    "locationES": "Bahía de Bristol, Alaska",
+    "descriptionES": "El salmón y la trucha regresan a los lagos y los arroyos. ¡Este es el momento de capturarlos!",
+    "notificationES": "¿Buscas escapar del calor? Ya casi llega la época de pescar en Alaska."
+  },
+  {
+    "id": "event-98",
+    "eventNameEN": "Major League Fishing - Stage 1",
+    "eventNameES": "Major League Fishing - Etapa 1",
+    "locationES": "Lake Conroe - Conroe, Texas",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la primera parada del Bass Pro Tour de la Major League Fishing.",
+    "notificationES": "Disfruta de la competencia de los extraordinarios pescadores en el mejor destino de pesca de róbalos del país y en la primera parada del Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-99",
+    "eventNameEN": "Major League Fishing - Stage 2",
+    "eventNameES": "Major League Fishing - Etapa 2",
+    "locationES": "Harris Chain of Lakes - Leesburg, Florida",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la segunda etapa del Bass Pro Tour de la Major League Fishing.",
+    "notificationES": "Mira competir a los ochenta mejores pescadores en este evento de 6 días durante la segunda etapa del Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-100",
+    "eventNameEN": "Major League Fishing - Stage 3",
+    "eventNameES": "Major League Fishing - Etapa 3",
+    "locationES": "Lake Murray - Columbia, Carolina del Sur",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la tercera etapa del Bass Pro Tour de la Major League Fishing.",
+    "notificationES": "Ochenta pescadores compiten por tercera vez en el Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-101",
+    "eventNameEN": "Pirates Cove",
+    "eventNameES": "Pirates Cove",
+    "locationES": "Manteo, Carolina del Norte",
+    "descriptionES": "El 42.º torneo anual de pesca mayor con más de 80 embarcaciones y cientos de pescadores que compiten en este icónico evento en alta mar.",
+    "notificationES": "Navega a Pirates Cove para este icónico evento en alta mar en Manteo, Carolina del Norte."
+  },
+  {
+    "id": "event-102",
+    "eventNameEN": "Beach Haven White Marlin Invitational",
+    "eventNameES": "Beach Haven White Marlin Invitational",
+    "locationES": "Beach Haven, Nueva Jersey",
+    "descriptionES": "El evento de pesca de marlín blanco más antiguo de Estados Unidos, que comenzó en 1970.",
+    "notificationES": "Ven a presenciar el evento de pesca de marlín blanco más antiguo del país durante el 55.º torneo anual por invitación."
+  },
+  {
+    "id": "event-103",
+    "eventNameEN": "Major League Fishing - Stage 4",
+    "eventNameES": "Major League Fishing - Etapa 4",
+    "locationES": "Lake Chickamauga y Lake Nickajack - Chattanooga, Tennessee",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la cuarta etapa del Bass Pro Tour de la Major League Fishing",
+    "notificationES": "Disfruta de la competencia de los mejores pescadores durante la cuarta etapa del Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-104",
+    "eventNameEN": "Mid Atlantic Tournament",
+    "eventNameES": "MidAtlantic Tournament",
+    "locationES": "Cape May, Nueva Jersey",
+    "descriptionES": "Un torneo de pesca de peto, dorado y marlín en Cape May, Nueva Jersey, del que participan 181 embarcaciones.",
+    "notificationES": "Mira a casi 200 embarcaciones y cientos de pescadores más competir en el MidAtlantic Tournament de Cape May."
+  },
+  {
+    "id": "event-105",
+    "eventNameEN": "Major League Fishing - Stage 5",
+    "eventNameES": "Major League Fishing - Etapa 5",
+    "locationES": "Kentucky Lake - Calvert City, Kentucky",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la quinta etapa de la temporada del Bass Pro Tour de la Major League Fishing.",
+    "notificationES": "Disfruta de la competencia de los mejores pescadores del mundo durante la quinta etapa del Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-106",
+    "eventNameEN": "Meatopia",
+    "eventNameES": "Meatopia 2024",
+    "locationES": "Londres, Reino Unido",
+    "descriptionES": "La oda de Londres al humo, la carne y el fuego. Aquí, algunos de los mejores chefs de fuegos vivos del mundo encienden madera y carbón de origen sustentable para ofrecer un espectáculo de parrillada con el que algunos solo pueden soñar. Súmale algunas bebidas y música en vivo y tendrás el día perfecto.",
+    "notificationES": "Fuego. Comida. Bebidas. Música. Meatopia, donde los mejores chefs de fuego vivo del mundo encienden las parrillas."
+  },
+  {
+    "id": "event-107",
+    "eventNameEN": "Joe's Valley Fest",
+    "eventNameES": "Joe’s Valley Fest",
+    "locationES": "Condado de Emery, Utah",
+    "descriptionES": "Un festival de escalada en bloque centrado en la escalada sostenible y la preservación de Joe’s Valley. Fechas oficiales por determinar.",
+    "notificationES": "Se acerca el Joe’s Valley Bouldering Festival, ¡no te lo pierdas!"
+  },
+  {
+    "id": "event-108",
+    "eventNameEN": "Archery Elk Season",
+    "eventNameES": "Temporada de caza de alce con arco",
+    "locationES": "Oeste de los EE. UU.",
+    "descriptionES": "Es el momento perfecto para cazar alces con arco. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Vuelve la temporada del alce. Toma tus flechas y persigue uno."
+  },
+  {
+    "id": "event-109",
+    "eventNameEN": "Duck Season - Prairie Pothole Region",
+    "eventNameES": "Temporada de caza de patos, región de Prairie Pothole",
+    "locationES": "Praderas canadienses, oeste de Canadá",
+    "descriptionES": "Temporada de caza de patos en campos secos, en las praderas canadienses. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "La temporada de caza de patos ha comenzado en Canadá."
+  },
+  {
+    "id": "event-110",
+    "eventNameEN": "California Surf",
+    "eventNameES": "California Surf",
+    "locationES": "Costa de California",
+    "descriptionES": "Descubre el surf icónico de otoño a lo largo de 800 millas (1287 km) de costa. Gran surf en el norte de California, la Costa Central y el sur de California.",
+    "notificationES": "El surf de otoño está en pleno auge en California. Encuentra olas que rompen de forma icónica para surfear a lo largo de la costa de California."
+  },
+  {
+    "id": "event-111",
+    "eventNameEN": "Labor Day",
+    "eventNameES": "Día del Trabajo",
+    "locationES": "EE. UU.",
+    "descriptionES": "Celebra el Día del Trabajo haciendo cualquier cosa que no sea trabajar.",
+    "notificationES": "¡Feliz Día del Trabajo! No olvides recoger un poco de hielo para la hielera."
+  },
+  {
+    "id": "event-112",
+    "eventNameEN": "Naples Take A Soldier Fishing",
+    "eventNameES": "Naples Take A Soldier Fishing",
+    "locationES": "Naples, Florida",
+    "descriptionES": "Apoya a las tropas mientras pescas en uno de los torneos benéficos de pesca más importantes del suroeste de Florida.",
+    "notificationES": "No te pierdas uno de los torneos benéficos más grandes de Florida en Naples. Contribuye a una gran causa."
+  },
+  {
+    "id": "event-113",
+    "eventNameEN": "Jackson Hole One Fly",
+    "eventNameES": "Jackson Hole One Fly",
+    "locationES": "Jackson Hole, Wyoming",
+    "descriptionES": "Torneo icónico de pesca con mosca dedicado a mejorar el hábitat y la población de truchas.",
+    "notificationES": "Dos días. Una mosca. No te pierdas el torneo de pesca con mosca más exclusivo de Jackson Hole."
+  },
+  {
+    "id": "event-114",
+    "eventNameEN": "WSL Finals",
+    "eventNameES": "WSL Finals",
+    "locationES": "Cloudbreak",
+    "descriptionES": "El mejor día para el surf, en el que el título mundial se decide en un evento de una sola jornada y el ganador se lo lleva todo.",
+    "notificationES": "Todo se reduce a esto. Mira a los 5 mejores hombres y mujeres competir en las finales de la World Surf League."
+  },
+  {
+    "id": "event-115",
+    "eventNameEN": "Pendleton Round Up",
+    "eventNameES": "Pendleton Round-Up",
+    "locationES": "Pendleton, OR",
+    "descriptionES": "Obtén tus boletos para uno de los rodeos profesionales más icónicos. Esta celebración de una semana se apodera de todo el pueblo de Pendleton y nivela el campo de juego con una arena de césped conocida como “green mile” (milla verde).",
+    "notificationES": "Obtén tus boletos para Pendleton Round-Up y celebra una semana en el oeste."
+  },
+  {
+    "id": "event-116",
+    "eventNameEN": "Borracho Pescador",
+    "eventNameES": "Borracho Pescador",
+    "locationES": "Port O’Connor, Texas",
+    "descriptionES": "Un encuentro de pesca con mosca en la costa del centro de Texas. Este evento asociado de Casting 4 A Cure recauda fondos para combatir el síndrome de Rett.",
+    "notificationES": "Pesca para encontrar una cura. Regístrate en el Borracho Pescador de Cast 4 A Cure."
+  },
+  {
+    "id": "event-117",
+    "eventNameEN": "StriperFest",
+    "eventNameES": "StriperFest",
+    "locationES": "Cabo Cod, Massachusetts",
+    "descriptionES": "El festival de pesca de lubina rayada más grande de la costa este con comida, bebidas y música en vivo.",
+    "notificationES": "Consigue tus boletos para el StriperFest, el festival de pesca de lubina rayada del año."
+  },
+  {
+    "id": "event-118",
+    "eventNameEN": "Los Cabos Billfish Tournament",
+    "eventNameES": "Los Cabos Billfish Tournament",
+    "locationES": "Los Cabos, México",
+    "descriptionES": "Un evento de tres días en el que el equipo que consiga la mayor cantidad de puntos en la categoría de marlines se llevará los principales premios. Fechas oficiales por determinar.",
+    "notificationES": "¡Atención pescadores de marlines! Los Cabos Billfish Tournament está a punto de comenzar."
+  },
+  {
+    "id": "event-119",
+    "eventNameEN": "Rocktoberfest",
+    "eventNameES": "Rocktoberfest",
+    "locationES": "Red River Gorge, Kentucky",
+    "descriptionES": "Una celebración de escalada en el cañón con talleres, limpiezas, horas felices y más. Fechas oficiales por determinar.",
+    "notificationES": "Es hora de la celebración de escalada del año: el Rocktoberfest."
+  },
+  {
+    "id": "event-120",
+    "eventNameEN": "Banff Mountain Film Festival",
+    "eventNameES": "Banff Mountain Film Festival",
+    "locationES": "Banff, Alberta, Canadá",
+    "descriptionES": "Un festival de cine de larga data que celebra las historias de la comunidad de la montaña. Fechas por determinar.",
+    "notificationES": "Consigue tu pase para el festival de cine de aventuras de Canadá, en el que se presentan docenas de películas inspiradoras de la comunidad de la montaña."
+  },
+  {
+    "id": "event-121",
+    "eventNameEN": "Nazaré Big Wave Season",
+    "eventNameES": "Temporada de olas gigantes en Nazaré",
+    "locationES": "Praia do Norte, Nazaré, Portugal",
+    "descriptionES": "Los mejores surfistas de olas gigantes del mundo se enfrentan a enormes olas frente a la costa de Nazaré. Arriesga todo o mira el evento desde la seguridad del faro.",
+    "notificationES": "Mira a los mejores surfistas de olas gigantes enfrentar algunas de las olas más grandes de la Tierra."
+  },
+  {
+    "id": "event-122",
+    "eventNameEN": "Hawaii North Shore Surf",
+    "eventNameES": "Surf en la Costa Norte de Hawái",
+    "locationES": "Costa Norte, Hawái",
+    "descriptionES": "Algunas de las mejores y más grandes olas del planeta rompen en la icónica Costa Norte de Hawái.",
+    "notificationES": "Sigue a los profesionales y aficionados apasionados mientras llega la temporada de surf de invierno a la Costa Norte."
+  },
+  {
+    "id": "event-123",
+    "eventNameEN": "Backcountry Film Festival",
+    "eventNameES": "Backcountry Film Festival",
+    "locationES": "En todo el país",
+    "descriptionES": "Un festival de cine que pasa por más de 100 ciudades proyectando películas sobre la comunidad de la montaña y los deportes de nieve.",
+    "notificationES": "Obtén tus boletos para ver uno de los más grandes festivales de cine de montaña y deportes de nieve."
+  },
+  {
+    "id": "event-124",
+    "eventNameEN": "Major League Fishing - Stage 6",
+    "eventNameES": "Major League Fishing - Etapa 6",
+    "locationES": "Río Potomac - Marbury, Maryland",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la sexta etapa de la temporada del Bass Pro Tour de la Major League Fishing.",
+    "notificationES": "Disfruta de la competencia de los mejores pescadores del mundo en la penúltima etapa del Bass Pro Tour de la Major League Fishing."
+  },
+  {
+    "id": "event-125",
+    "eventNameEN": "Late Season Elk",
+    "eventNameES": "Caza de alces en temporada tardía",
+    "locationES": "Oeste de los EE. UU.",
+    "descriptionES": "Enfréntate al frío para poder llenar tu hielera. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Abrígate bien y sube la montaña. Es tu oportunidad de cazar un alce en temporada tardía."
+  },
+  {
+    "id": "event-126",
+    "eventNameEN": "Major League Fishing - Stage 7",
+    "eventNameES": "Major League Fishing - Etapa 7",
+    "locationES": "Bahía de Saginaw - Bay City, Michigan",
+    "descriptionES": "Los mejores pescadores del mundo compiten en la etapa final de la temporada del Bass Pro Tour de la Major League Fishing con la oportunidad de coronarse Pescador del Año.",
+    "notificationES": "Los mejores pescadores participan en la etapa final del Bass Pro Tour de la Major League Fishing. Asegúrate de marcar la fecha en el calendario."
+  },
+  {
+    "id": "event-127",
+    "eventNameEN": "Chene Gear Film Festival",
+    "eventNameES": "Festival de cine Chêne Gear",
+    "locationES": "Memphis, Tennessee",
+    "descriptionES": "Regresó la temporada de caza. Celebra junto a algunas de las mejores marcas de la industria con música en vivo, fútbol americano universitario, carritos de comida local y un patio cervecero que parece interminable.",
+    "notificationES": "Celebra el regreso de la temporada de caza con música en vivo, carritos de comida local y un patio cervecero."
+  },
+  {
+    "id": "event-128",
+    "eventNameEN": "Cap Cana Classic",
+    "eventNameES": "Cap Cana Classic",
+    "locationES": "Punta Cana, República Dominicana",
+    "descriptionES": "El Cap Cana Classic reúne a ávidos pescadores de todo el mundo para un fin de semana de pesca de marlines.",
+    "notificationES": "Súbete a tu embarcación y vive la aventura de tu vida mientras compiten ávidos pescadores de todo el mundo."
+  },
+  {
+    "id": "event-129",
+    "eventNameEN": "LoCo Trash Bash",
+    "eventNameES": "LoCo Trash Bash",
+    "locationES": "Austin, Texas",
+    "descriptionES": "La auténtica limpieza comunitaria del río, enfocada en las primeras 40 millas (64 km) del bajo Colorado. Fechas oficiales por determinar.",
+    "notificationES": "Se acerca el LoCo Trash Bash. Consulta las fechas y los detalles para unirte en la protección de los ríos de Texas."
+  },
+  {
+    "id": "event-130",
+    "eventNameEN": "Florida Surf",
+    "eventNameES": "Surf en Florida",
+    "locationES": "Costa Atlántica, Florida",
+    "descriptionES": "El agua cálida, el sol y los precisos puntos de quiebre crean las condiciones perfectas tanto para principiantes como para veteranos.",
+    "notificationES": "Perfecciona tus habilidades de surf en la Costa Atlántica de Florida."
+  },
+  {
+    "id": "event-131",
+    "eventNameEN": "Texas Monthly BBQ Fest",
+    "eventNameES": "Texas Monthly BBQ Fest",
+    "locationES": "Lockhart, Texas",
+    "descriptionES": "Un festival que no te puedes perder, con un elenco estelar de las 50 mejores parrilladas de Texas.",
+    "notificationES": "No te pierdas lo mejor de lo mejor en parrilladas de Texas."
+  },
+  {
+    "id": "event-132",
+    "eventNameEN": "Offshore Billfish Season",
+    "eventNameES": "Temporada de pesca de marlín en alta mar",
+    "locationES": "Los Cabos, México",
+    "descriptionES": "La mejor época para pescar tus marlines favoritos en México.",
+    "notificationES": "Hay cardúmenes por todas partes y una gran población de marlines. Toma tu mejor equipo y ve a Los Cabos para la pesca de tu vida."
+  },
+  {
+    "id": "event-133",
+    "eventNameEN": "Holy Smokes",
+    "eventNameES": "Holy Smokes",
+    "locationES": "Charleston, Carolina del Sur",
+    "descriptionES": "Un festival de parrillada propio de Carolina del Sur con todo lo que puedas comer, con maestros parrilleros de todo el país. Fechas oficiales por determinar.",
+    "notificationES": "Ponte unos pantalones sueltos para este festival de parrillada en el que comerás a tu antojo."
+  },
+  {
+    "id": "event-134",
+    "eventNameEN": "Goose Migration",
+    "eventNameES": "Temporada de migración de gansos",
+    "locationES": "Sur de los EE. UU.",
+    "descriptionES": "No hay mejor momento para cazar gansos oscuros que durante la temporada de migración. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "¡Atención llamadores! Llegó la temporada de gansos."
+  },
+  {
+    "id": "event-135",
+    "eventNameEN": "Killington Opening Day",
+    "eventNameES": "Día de apertura del Killington",
+    "locationES": "Killington, Vermont",
+    "descriptionES": "Se abren las pistas del Killington Ski Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Killington ya están abiertas."
+  },
+  {
+    "id": "event-136",
+    "eventNameEN": "WRCA World Championships",
+    "eventNameES": "WRCA World Championships",
+    "locationES": "Amarillo, TX",
+    "descriptionES": "Celebra el estilo de vida del oeste y mira a los verdaderos vaqueros de rancho competir por el título de campeón mundial de rodeo ranchero.",
+    "notificationES": "Observa y aprende mientras los vaqueros de rancho ponen a prueba sus habilidades en los WRCA World Championships."
+  },
+  {
+    "id": "event-137",
+    "eventNameEN": "Mammoth Opening Day",
+    "eventNameES": "Día de apertura del Mammoth",
+    "locationES": "Mammoth Lakes, California",
+    "descriptionES": "Se abren las pistas del Mammoth Ski Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Mammoth Ski Resort ya están abiertas."
+  },
+  {
+    "id": "event-138",
+    "eventNameEN": "Peak of The Whitetail Rut",
+    "eventNameES": "Pico de la temporada de apareamiento del ciervo de cola blanca",
+    "locationES": "En todo el país",
+    "descriptionES": "A principios de noviembre, tienes más oportunidades para hacerte con un ciervo macho adulto. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Prepárate para la aventura. Empieza la temporada de apareamiento del ciervo de cola blanca."
+  },
+  {
+    "id": "event-139",
+    "eventNameEN": "Copper Opening Day",
+    "eventNameES": "Día de apertura del Copper",
+    "locationES": "Copper Mountain, Colorado",
+    "descriptionES": "Se abren las pistas del Copper Mountain Ski Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Copper Mountain ya están abiertas."
+  },
+  {
+    "id": "event-140",
+    "eventNameEN": "Vancouver International Mountain Film Fest",
+    "eventNameES": "Vancouver International Mountain Film Fest",
+    "locationES": "Vancouver, Canadá",
+    "descriptionES": "Celebra la aventura al aire libre y la cultura de montaña a través del cine, la fotografía, las presentaciones y los talleres.",
+    "notificationES": "Celebra al aire libre en el Vancouver International Mountain Film Fest."
+  },
+  {
+    "id": "event-141",
+    "eventNameEN": "Jackson Hole Opening Day",
+    "eventNameES": "Día de apertura del Jackson Hole",
+    "locationES": "Jackson Hole, Wyoming",
+    "descriptionES": "Se abren las pistas del Jackson Hole Mountain Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Jackson Hole ya están abiertas."
+  },
+  {
+    "id": "event-142",
+    "eventNameEN": "Kendal Mountain Festival",
+    "eventNameES": "Kendal Mountain Festival",
+    "locationES": "Kendal, Reino Unido",
+    "descriptionES": "El encuentro más grande de entusiastas de actividades al aire libre en el Reino Unido.",
+    "notificationES": "No te pierdas el encuentro más grande de entusiastas de actividades al aire libre en el Reino Unido."
+  },
+  {
+    "id": "event-143",
+    "eventNameEN": "Palisades Tahoe Opening Day",
+    "eventNameES": "Día de apertura del Palisades Tahoe",
+    "locationES": "Lake Tahoe, California",
+    "descriptionES": "Se abren las pistas del Palisades Tahoe para practicar esquí y snowboard.",
+    "notificationES": "El Palisades Tahoe ya está abierto."
+  },
+  {
+    "id": "event-144",
+    "eventNameEN": "Smoke Your Thanksgiving Turkey",
+    "eventNameES": "Pavo a la parrilla para el Día de Acción de Gracias",
+    "locationES": "Tu patio trasero",
+    "descriptionES": "Este año, cocina el pavo en el ahumador para hacerle justicia.",
+    "notificationES": "Ya casi llega el Día del Pavo. Si hay pavo, hay parrillada."
+  },
+  {
+    "id": "event-145",
+    "eventNameEN": "Telluride Opening Day",
+    "eventNameES": "Día de apertura del Telluride",
+    "locationES": "Por determinar",
+    "descriptionES": "Se abren las pistas del Telluride Ski Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Telluride ya están abiertas."
+  },
+  {
+    "id": "event-146",
+    "eventNameEN": "Opening Day Duck Season in Arkansas",
+    "eventNameES": "Opening Day Duck Season in Arkansas",
+    "locationES": "Arkansas",
+    "descriptionES": "La temporada de patos en Arkansas comienza con el Campeonato Mundial de Llamado de Patos. Consulta las reglamentaciones locales para conocer las fechas.",
+    "notificationES": "Encuentra un árbol y mueve un poco de agua: el mejor campeonato de caza de patos del mundo regresa a Arkansas."
+  },
+  {
+    "id": "event-147",
+    "eventNameEN": "Ice Fishing Season",
+    "eventNameES": "Temporada de pesca en hielo",
+    "locationES": "Minnesota",
+    "descriptionES": "Nunca hace demasiado frío para pescar. Encuentra un hoyo y pesca la cena, ¡llegó la temporada de la pesca en hielo!",
+    "notificationES": "Un lago congelado es un espectáculo hermoso. Ya casi llega la temporada de pesca en hielo."
+  },
+  {
+    "id": "event-148",
+    "eventNameEN": "Bozeman Ice Festival",
+    "eventNameES": "Bozeman Ice Festival",
+    "locationES": "Bozeman, Montana",
+    "descriptionES": "Aprende a escalar en una de las cascadas de hielo con más historia de los Estados Unidos. Fechas oficiales por determinar.",
+    "notificationES": "Consulta las fechas y los detalles del Bozeman Ice Fest y conquista Hyalite Canyon junto a atletas y guías de talla mundial."
+  },
+  {
+    "id": "event-149",
+    "eventNameEN": "Late Season Whitetail",
+    "eventNameES": "Caza de ciervos de cola blanca después de la temporada",
+    "locationES": "En todo el país",
+    "descriptionES": "La temporada de apareamiento ha terminado, pero aún puedes cazar un ciervo de cola blanca. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Todavía hay tiempo para conseguir un ciervo de cola blanca."
+  },
+  {
+    "id": "event-150",
+    "eventNameEN": "National Finals Rodeo",
+    "eventNameES": "National Finals Rodeo",
+    "locationES": "Las Vegas, NV",
+    "descriptionES": "Los mejores atletas de rodeo persiguen sus sueños de la hebilla de oro en el evento más prestigioso de rodeo.",
+    "notificationES": "Prepárate para 10 días con los mejores atletas de rodeo del mundo en el National Finals Rodeo en Las Vegas."
+  },
+  {
+    "id": "event-151",
+    "eventNameEN": "Mt. Bachelor Opening Day",
+    "eventNameES": "Día de apertura del Mt. Bachelor",
+    "locationES": "Bend, Oregón",
+    "descriptionES": "Se abren las pistas del Mt. Bachelor Ski Resort para practicar esquí y snowboard.",
+    "notificationES": "Las pistas del Mt. Bachelor ya están abiertas."
+  },
+  {
+    "id": "event-152",
+    "eventNameEN": "Kentucky 3-Day",
+    "eventNameES": "Kentucky 3-Day",
+    "locationES": "Lexington, Kentucky",
+    "descriptionES": "Nombrado como el “mejor fin de semana del año”, este evento ecuestre de 3 días, de renombre internacional, en Kentucky es uno que no querrás perderte.",
+    "notificationES": "El “mejor fin de semana del año” está aquí."
+  },
+  {
+    "id": "event-153",
+    "eventNameEN": "World Cup Finals",
+    "eventNameES": "Final de la Copa del Mundo",
+    "locationES": "Basilea, Suiza",
+    "descriptionES": "Planifica tu viaje a Basilea, Suiza, y sé testigo de los mejores jinetes y caballos del mundo en la Final de la Copa del Mundo.",
+    "notificationES": "Consigue tus entradas para la Final de la Copa del Mundo."
+  },
+  {
+    "id": "event-154",
+    "eventNameEN": "London International Horse Show",
+    "eventNameES": "London International Horse Show",
+    "locationES": "Londres, Reino Unido",
+    "descriptionES": "Los mejores jinetes del mundo se enfrentan en Londres. Observa 3 clasificaciones de la Copa del Mundo FEI, incluida la copa Longines FEI Jumping World Cup.",
+    "notificationES": "Ve a los jinetes competir al más alto nivel en Londres."
+  },
+  {
+    "id": "event-155",
+    "eventNameEN": "Winter Equestrian Festival",
+    "eventNameES": "Winter Equestrian Festival",
+    "locationES": "Wellington, Florida",
+    "descriptionES": "Jinetes de salto de todo el mundo se reúnen en Wellington, Florida, para competir y marcar el tono para el resto del año.",
+    "notificationES": "Observa cómo los jinetes de salto marcan el tono del año en el Winter Equestrian Festival (Festival ecuestre de invierno)."
+  },
+  {
+    "id": "event-156",
+    "eventNameEN": "FEI North American Youth Championships",
+    "eventNameES": "FEI North American Youth Championships",
+    "locationES": "Traverse City, Míchigan",
+    "descriptionES": "Mira a los jinetes jóvenes y juniors de todo el país reunirse para competir en este evento de estilo olímpico que determinará a los mejores de los mejores de América del Norte.",
+    "notificationES": "Alienta a la próxima generación de jinetes durante los campeonatos North American Youth Championships."
+  },
+  {
+    "id": "event-157",
+    "eventNameEN": "The Al Shira’aa Hickstead Derby Meeting",
+    "eventNameES": "Al Shira’aa Hickstead Derby Meeting",
+    "locationES": "Hassocks, Reino Unido",
+    "descriptionES": "El Hickstead Derby, que se llevó a cabo por primera vez en 1961, es una de las clases más históricas y populares de salto ecuestre. Sé testigo de la pendiente de 10 pies y 6 pulgadas (3.23 metros) de Derby Bank, el infame Devil’s Dyke y uno de los saltos de agua más anchos del mundo.",
+    "notificationES": "Disfruta de un evento de salto ecuestre que es tan emocionante como histórico."
+  },
+  {
+    "id": "event-158",
+    "eventNameEN": "CHIO Aachen World Equestrian Festival",
+    "eventNameES": "CHIO Aachen World Equestrian Festival",
+    "locationES": "Aachen, Alemania",
+    "descriptionES": "El evento ecuestre más grande del mundo se encuentra con el espectáculo hípico más prestigioso de Europa.",
+    "notificationES": "Sé parte del evento ecuestre más grande del mundo."
+  },
+  {
+    "id": "event-159",
+    "eventNameEN": "Longines League of Nations at the World Equestrian Center",
+    "eventNameES": "Longines League of Nations en el World Equestrian Center",
+    "locationES": "Ocala, Florida",
+    "descriptionES": "Una de las competencias más difíciles del mundo. Diez naciones compiten en cinco lugares del mundo por el título de la nación ecuestre más fuerte. Disfruta de la etapa estadounidense del recorrido en Ocala, Florida.",
+    "notificationES": "Sé testigo de la única etapa estadounidense de la Longines League of Nations."
+  },
+  {
+    "id": "event-160",
+    "eventNameEN": "Badminton Horse Trials",
+    "eventNameES": "Badminton Horse Trials",
+    "locationES": "Gloucestershire Sur, Reino Unido",
+    "descriptionES": "Uno de los eventos ecuestres más difíciles y emocionantes: el punto culminante del calendario mundial de pruebas ecuestres.",
+    "notificationES": "Sé testigo de uno de los eventos ecuestres más difíciles del mundo: Badminton Horse Trials."
+  },
+  {
+    "id": "event-161",
+    "eventNameEN": "Thunderbird's Canadian Premier",
+    "eventNameES": "Thunderbird's Canadian Premier",
+    "locationES": "Langley, Colombia Británica, Canadá",
+    "descriptionES": "Ubicado a solo unos pasos de Vancouver, Thunderbird Show Park es uno de los principales centros para eventos ecuestres de Norteamérica; ¡donde se celebran nueve semanas de torneos de cazadores y jinetes de salto reconocidos a nivel mundial por año!",
+    "notificationES": "Comienzan las 9 semanas de eventos ecuestres de primer nivel en la Columbia Británica."
+  },
+  {
+    "id": "event-162",
+    "eventNameEN": "Maryland 5*",
+    "eventNameES": "Maryland 5*",
+    "locationES": "Fairhill, Maryland",
+    "descriptionES": "Hay solo un evento que merece el título de “El lugar al que hay que ir en octubre” y ese es el Maryland 5*. Hogar de los mejores deportes, increíbles actividades previas al evento y paisajes exuberantes, este evento combina a la perfección la belleza de Maryland con algunas de las competencias más difíciles.",
+    "notificationES": "Sé testigo de la belleza de Maryland combinada con uno de los únicos dos eventos de 5* en los EE. UU."
+  },
+  {
+    "id": "event-163",
+    "eventNameEN": "The Masters at Spruce Meadows",
+    "eventNameES": "Masters at Spruce Meadows",
+    "locationES": "Calgary, Alberta, Canadá",
+    "descriptionES": "Uno de los encuentros más esperados en el calendario ecuestre, el “Masters” promete una experiencia inolvidable para los jinetes, espectadores y entusiastas por igual.",
+    "notificationES": "El Masters at Spruce Meadows ya está aquí. Compra tus entradas y sé parte de la historia."
+  },
+  {
+    "id": "event-164",
+    "eventNameEN": "Philadelphia Polo Classic",
+    "eventNameES": "Philadelphia Polo Classic",
+    "locationES": "Filadelfia, Pensilvania",
+    "descriptionES": "Ayuda a que los deportes ecuestres sean más accesibles dirigiéndote al centro de la ciudad para disfrutar del Philadelphia Polo Classic. Todos los fondos recaudados en el evento se destinarán al programa Work To Ride, que beneficiará a los futuros jinetes junior con bajos recursos.",
+    "notificationES": "Dirígete a Filadelfia para disfrutar del Polo Classic y apoyar a Work To Ride."
+  },
+  {
+    "id": "event-165",
+    "eventNameEN": "HKM BUNDESCHAMPIONATE (German Young Horse Championship)",
+    "eventNameES": "HKM BUNDESCHAMPIONATE (campeonato alemán de caballos jóvenes)",
+    "locationES": "Warendorf, Alemania",
+    "descriptionES": "Los mejores caballos jóvenes de Alemania compiten por el título de Bundeschampion en la meca del deporte ecuestre: la Federación Ecuestre Alemana en Warendorf.",
+    "notificationES": "Conoce a los próximos caballos de élite en el Bundeschampion en Hamburgo."
+  },
+  {
+    "id": "event-166",
+    "eventNameEN": "Offshore World Championships",
+    "eventNameES": "Offshore World Championship",
+    "locationES": "Quepos, Costa Rica",
+    "descriptionES": "Este torneo mundial de 4 días en Costa Rica enfrenta a los equipos en la pesca de los marlines y los peces vela más grandes del país.",
+    "notificationES": "Descubre qué equipo se consagra ganador del Offshore World Championship en Costa Rica."
+  },
+  {
+    "id": "event-167",
+    "eventNameEN": "The Holy City Tarpon Tournament",
+    "eventNameES": "Holy City Tarpon Tournament",
+    "locationES": "Charleston, Carolina del Sur",
+    "descriptionES": "Captura y libera la mayor cantidad de sábalos que puedas para tener la oportunidad de ganar este torneo en Charleston.",
+    "notificationES": "Dirígete a Charleston y captura sábalos durante este torneo."
+  },
+  {
+    "id": "event-168",
+    "eventNameEN": "The Fly Fishing Film Tour",
+    "eventNameES": "Fly Fishing Film Tour",
+    "locationES": "Mundial",
+    "descriptionES": "Esta gira cinematográfica anual presenta las mejores películas sobre pesca con mosca del mundo. Con cientos de proyecciones en varios países, puede que incluso tengas la oportunidad de ir dos veces.",
+    "notificationES": "Consigue tus boletos para ver las mejores películas sobre pesca con mosca del mundo."
+  },
+  {
+    "id": "event-169",
+    "eventNameEN": "The Billfish Pachanga",
+    "eventNameES": "The Billfish Pachanga",
+    "locationES": "Port Aransas, Texas",
+    "descriptionES": "Este torneo, que es uno de los principales de pesca y liberación en alta mar de Texas, atrae a equipos de todo el país para competir en las categorías de marlines, dorados, atunes y petos.",
+    "notificationES": "Los equipos compiten para capturar marlines, dorados, atunes y petos con otros pescadores del país en este torneo que se realiza en Texas."
+  },
+  {
+    "id": "event-170",
+    "eventNameEN": "Bassmaster Elite Series @ Lake St. Clair",
+    "eventNameES": "Bassmaster Elite Series en Lake St. Clair",
+    "locationES": "Condado de Macomb, Michigan",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo llega a su última etapa y los competidores buscan consagrarse Pescador del Año.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-171",
+    "eventNameEN": "Lure Masters Trophy Event",
+    "eventNameES": "Evento Lure Masters Trophy",
+    "locationES": "Ooltgensplaat, Países Bajos",
+    "descriptionES": "El Lure Masters Trophy es conocido como el torneo de pesca de varias especies más emocionante de Europa. Aquí, más de 240 pescadores expertos compiten durante tres días en tres cuerpos de agua diferentes para pescar tres especies distintas de peces. El equipo ganador obtiene el prestigioso Lure Masters Trophy, además de los grandes premios.",
+    "notificationES": "El torneo de pesca de varias especies más emocionante de Europa está a punto de comenzar."
+  },
+  {
+    "id": "event-172",
+    "eventNameEN": "The Lady Red Rendezvous",
+    "eventNameES": "The Lady Red Rendezvous",
+    "locationES": "Por determinar",
+    "descriptionES": "Un torneo de pesca de corvinas rojas de dos días en Charleston, Carolina del Sur. Habrá no solo corvinas rojas, sino también una cervecería y una fiesta posterior.",
+    "notificationES": "Ve con tus amigas al 3.er torneo anual de pesca de corvina roja en Charleston."
+  },
+  {
+    "id": "event-173",
+    "eventNameEN": "Presidential Sailfish Tournament",
+    "eventNameES": "Presidential Sailfish Tournament",
+    "locationES": "Islamorada, Florida",
+    "descriptionES": "El Florida Keys Gold Cup Sailfish Championship combina tres de los principales eventos de pesca de pez vela en los Cayos de la Florida: el Islamorada Sailfish Tournament, el Islamorada Fishing Club Sailfish Tournament y el Cheeca Lodge Presidential Sailfish Tournament.",
+    "notificationES": "Pronto se realizarán tres eventos de primer nivel en los Cayos de la Florida, en Islamorada. Mantente atento a los resultados."
+  },
+  {
+    "id": "event-174",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Marlborough, Massachusetts",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Marlborough, Massachusetts, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Marlborough, Massachusetts, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-175",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Edison, Nueva Jersey",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Edison, Nueva Jersey, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Edison, Nueva Jersey, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-176",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Atlanta, Georgia",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Atlanta, Georgia, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Atlanta, Georgia, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-177",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Seattle/Bellevue, Washington",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Bellevue, Washington, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Bellevue, Washington, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-178",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Denver, Colorado",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Denver, Colorado, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Denver, Colorado, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-179",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Pleasanton, California",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Pleasanton, California, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Pleasanton, California, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-180",
+    "eventNameEN": "Fly Fishing Show",
+    "eventNameES": "Fly Fishing Show",
+    "locationES": "Lancaster, Pensilvania",
+    "descriptionES": "¿Necesitas equipo nuevo? En el Fly Fishing Show en Lancaster, Pensilvania, encontrarás de todo, desde cañas de pescar hasta vadeadores. Mira qué equipo necesitas y planea comprar algo más para la próxima temporada.",
+    "notificationES": "Dirígete a Fly Fishing Show en Lancaster, Pensilvania, para comprar equipo nuevo para la próxima temporada."
+  },
+  {
+    "id": "event-181",
+    "eventNameEN": "Swamp Guides Ball",
+    "eventNameES": "Swamp Guides Ball",
+    "locationES": "Islamorada, Florida",
+    "descriptionES": "La 35.ª edición anual del Swamp Guides Ball se lleva a cabo en los hermosos Cayos de la Florida, mientras los pescadores buscan corvinas rojas, róbalos y macabíes. Lucha por el puesto de gran campeón o sé testigo de todo.",
+    "notificationES": "La 35.ª edición anual del Swamp Guides Ball está a punto de comenzar. Regístrate o sintoniza para ver los resultados."
+  },
+  {
+    "id": "event-182",
+    "eventNameEN": "Pacific Coast Sportfishing Show",
+    "eventNameES": "Pacific Coast Sportfishing Show",
+    "locationES": "Costa Mesa, California",
+    "descriptionES": "Una feria en un espacio de 217,000 pies cuadrados (20,160 m²) donde encontrarás equipo de pesca en agua dulce y agua salada, embarcaciones, destinos de excursiones y todo lo relacionado con el aire libre.",
+    "notificationES": "Equipo, embarcaciones, excursiones y todo lo relacionado con el aire libre. Dirígete al Pacific Coast Sportfishing Show y descúbrelo por ti mismo."
+  },
+  {
+    "id": "event-183",
+    "eventNameEN": "Herman Lucerne Tarpon Cup",
+    "eventNameES": "Herman Lucerne Tarpon Cup",
+    "locationES": "Islamorada, Florida",
+    "descriptionES": "Un torneo de pesca de sábalo con inscripción limitada en el que participan algunos de los mejores guías y pescadores con mosca del mundo.",
+    "notificationES": "Una especie y un torneo magnífico. Sintoniza para ver los resultados."
+  },
+  {
+    "id": "event-184",
+    "eventNameEN": "Wild Salmon Connections",
+    "eventNameES": "Wild Salmon Connections",
+    "locationES": "Londres, Reino Unido",
+    "descriptionES": "Contribuye al futuro del salmón salvaje y del agua en la que vive. Aquí, los principales exponentes de este tema hablarán sobre cómo cada uno de nosotros puede ayudar a salvar el salmón salvaje para nuestra generación y las venideras.",
+    "notificationES": "Ayuda a salvar el futuro del salmón salvaje en este evento en Londres."
+  },
+  {
+    "id": "event-185",
+    "eventNameEN": "British Fly Fair International",
+    "eventNameES": "British Fly Fair International",
+    "locationES": "Staffordshire, Reino Unido",
+    "descriptionES": "La British Fly Fair International (BFFI) es la principal feria de pesca con mosca del Reino Unido que ofrece todo para los pescadores con mosca, tanto novatos como expertos.",
+    "notificationES": "Ya sea que nunca antes hayas pescado o que ya tengas experiencia, este evento en Staffordshire tiene todo el equipo que buscas."
+  },
+  {
+    "id": "event-186",
+    "eventNameEN": "Sea Angling Classic",
+    "eventNameES": "Sea Angling Classic",
+    "locationES": "Port Solent, Reino Unido",
+    "descriptionES": "Una importante competencia de pesca en el mar que combina la conservación, la educación y la investigación.",
+    "notificationES": "¡No te pierdas la 4.ª competencia anual en Port Solent!"
+  },
+  {
+    "id": "event-187",
+    "eventNameEN": "Tailgate Season",
+    "eventNameES": "Temporada de tailgate",
+    "locationES": "EE. UU.",
+    "descriptionES": "Invita a algunos amigos y consigue un tailgate, unas cervezas frías y un lugar para celebrar a tu equipo de la mejor manera que sabes.",
+    "notificationES": "La temporada de tailgate finalmente ha llegado. ¿Dónde harás los tailgate esta temporada?"
+  },
+  {
+    "id": "event-188",
+    "eventNameEN": "Vancouver Craft Beer & Music Festival",
+    "eventNameES": "Vancouver Craft Beer & Music Festival",
+    "locationES": "Vancouver, Columbia Británica",
+    "descriptionES": "Disfruta de la esencia de Vancouver con cerveza artesanal y música en vivo.",
+    "notificationES": "Prueba las mejores cervezas de Canadá en el festival de este año en Vancouver."
+  },
+  {
+    "id": "event-189",
+    "eventNameEN": "Vermont Brewers Festival",
+    "eventNameES": "Vermont Brewers Festival",
+    "locationES": "Burlington, Vermont",
+    "descriptionES": "Este evento de cerveza artesanal de dos días se lleva a cabo en uno de los lugares más pintorescos de Vermont, las costas del lago Champlain en Burlington, Vermont.",
+    "notificationES": "Prepárate para una de las fiestas de cerveza más hermosas del año."
+  },
+  {
+    "id": "event-190",
+    "eventNameEN": "Firestone Walker Invitational",
+    "eventNameES": "Firestone Walker Invitational",
+    "locationES": "Paso Robles, California",
+    "descriptionES": "El Firestone Walker Invitational Beer Fest es un festival de primera clase que reúne a los mejores cerveceros del mundo. Se trata de disfrutar de los cerveceros, las cervezas, la música y la gente con la que compartes el momento.",
+    "notificationES": "Reúne a algunos amigos, beban algunas cervezas y escuchen música en The Firestone Walker Invitational."
+  },
+  {
+    "id": "event-191",
+    "eventNameEN": "Foeder For Thought",
+    "eventNameES": "Foeder For Thought",
+    "locationES": "San Petersburgo, Florida",
+    "descriptionES": "Dirígete a Green Bench Brewing para la Tampa Bay Beer Week y únete al embajador de YETI, Khris Johnson, junto con Good Beer Hunting para disfrutar de cervezas fermentadas.",
+    "notificationES": "Si te gustan las cervezas fermentadas, no querrás perdértelo."
+  },
+  {
+    "id": "event-192",
+    "eventNameEN": "Bassmaster Elite Series @ Lake Tenkiller",
+    "eventNameES": "Bassmaster Elite Series en Lake Tenkiller",
+    "locationES": "Cookson, Oklahoma",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo celebra su séptimo evento de la serie.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-193",
+    "eventNameEN": "Bassmaster Elite Series @ Mississippi River",
+    "eventNameES": "Bassmaster Elite Series en el río Mississippi",
+    "locationES": "La Crosse, Wisconsin",
+    "descriptionES": "El evento final de Bassmaster Elite Series. Se corona al Pescador del Año.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-194",
+    "eventNameEN": "Gettin' Piggy With It",
+    "eventNameES": "Gettin' Piggy With It",
+    "locationES": "Raleigh, Carolina del Norte",
+    "descriptionES": "Organizado por Lawrence Barbecue de Durham y Trophy Brewing de Raleigh, Gettin’ Piggy With It cuenta con más de 25 maestros parrilleros de todo el país para recaudar dinero para The Frankie Lemmon School. Así que compra un cinturón más grande y agrega este evento a tu calendario para disfrutar de una experiencia de parrillada inolvidable.",
+    "notificationES": "Dirígete a Raleigh y disfruta de la parrillada de más de 25 maestros parrilleros de todo el país."
+  },
+  {
+    "id": "event-195",
+    "eventNameEN": "Southern Smoke Festival",
+    "eventNameES": "Southern Smoke",
+    "locationES": "Houston, Texas",
+    "descriptionES": "Cuando más de 70 profesionales de la industria de alimentos y bebidas viajan por todo el país para un festival, sabes que vale la pena. Dirígete al centro de Houston para disfrutar de una experiencia culinaria que, además, apoya una gran causa y cuyas ganancias están destinadas a la Southern Smoke Foundation.",
+    "notificationES": "Si buscas una parrillada ahumada y bebidas, dirígete a este evento en el centro de Houston."
+  },
+  {
+    "id": "event-196",
+    "eventNameEN": "Great American Beer Festival",
+    "eventNameES": "Great American Beer Festival",
+    "locationES": "Denver, Colorado",
+    "descriptionES": "Cuando se sirve la colección más grande de cerveza estadounidense para degustación pública, el evento se gana el derecho de llamarse Gran Festival de Cerveza Estadounidense. Lleva a algunos amigos y disfruta de unas cervezas.",
+    "notificationES": "Prueba lo que hace tan especial a The Great American Beer Festival."
+  },
+  {
+    "id": "event-197",
+    "eventNameEN": "Bassmaster Elite Series @ Sabine River",
+    "eventNameES": "Bassmaster Elite Series en el río Sabine",
+    "locationES": "Orange, Texas",
+    "descriptionES": "El nivel más alto de pesca profesional de róbalo está de vuelta en Texas, en el río Sabine.",
+    "notificationES": "¡Actualización de Bassmaster Elite Series! No te pierdas el próximo evento."
+  },
+  {
+    "id": "event-198",
+    "eventNameEN": "CrossFit Open",
+    "eventNameES": "CrossFit Open",
+    "locationES": "Mundial",
+    "descriptionES": "3 semanas, 3 entrenamientos. Comienza la temporada de CrossFit Games con un Open que está disponible tanto para profesionales como para aficionados.",
+    "notificationES": "Durante 3 semanas, demuestra tu fuerza en este evento de Crossfit."
+  },
+  {
+    "id": "event-200",
+    "eventNameEN": "Wodapalooza",
+    "eventNameES": "Wodapalooza",
+    "locationES": "Por determinar",
+    "descriptionES": "Festival anual de ejercicio con una competencia de élite de dos equipos que enfrenta a Norteamérica contra el mundo.",
+    "notificationES": "Norteamérica vs. El mundo. Obtén boletos para ver quién gana."
+  },
+  {
+    "id": "event-201",
+    "eventNameEN": "Tactical Games National Championship",
+    "eventNameES": "The Tactical Games",
+    "locationES": "Por determinar",
+    "descriptionES": "Pon a prueba tus habilidades tácticas en uno de los entornos más estresantes que una competencia puede ofrecer. Aquí, los tiradores y atletas de todos los ámbitos podrán probar sus habilidades y su determinación mientras se enfrentan a algunos de los mejores del mundo.",
+    "notificationES": "Pon a prueba tus habilidades en The Tactical Games."
+  },
+  {
+    "id": "event-202",
+    "eventNameEN": "Ducks Unlimited Expo",
+    "eventNameES": "Ducks Unlimited Expo",
+    "locationES": "Memphis, Tennessee",
+    "descriptionES": "Un evento de tres días repleto de los últimos productos para actividades al aire libre y de expertos del sector. Toma la delantera esta temporada con lo mejor de lo mejor y apoya al equipo líder en recaudación de fondos para la conservación en Norteamérica.",
+    "notificationES": "Un evento con el que sueñan los entusiastas del aire libre. Consigue boletos para la Ducks Unlimited Expo."
+  },
+  {
+    "id": "event-203",
+    "eventNameEN": "Western Hunting & Conservation Expo",
+    "eventNameES": "Western Hunter Expo",
+    "locationES": "Salt Lake City, Utah",
+    "descriptionES": "En un esfuerzo colaborativo para conservar la vida silvestre, Mule Deer Foundation, Sportsmen for Fish and Wildlife y la División de Recursos de Vida Silvestre de Utah organizaron el evento de recaudación de fondos del siglo. Aquí puedes postularte para el premio de las 200 mejores cacerías de Utah, apostar por cualquiera de las mejores cazas de Norteamérica e incluso reservar una caza con uno de nuestros outfitters de primera clase.",
+    "notificationES": "La Western Hunter Expo está a punto de comenzar. Consigue tus boletos."
+  },
+  {
+    "id": "event-204",
+    "eventNameEN": "The Game Fair Festival",
+    "eventNameES": "Festival The Game Fair",
+    "locationES": "Woodstock, Reino Unido",
+    "descriptionES": "Un encuentro anual de personas apasionadas por las actividades campestres y la gran campiña británica, con compras, tiro, pesca con mosca, cetrería, tiro al plato, cocina, perros de trabajo y comida silvestre.",
+    "notificationES": "Disfruta de la gran campiña británica y de todas las actividades que tiene para ofrecer. Compra tus boletos."
+  },
+  {
+    "id": "event-205",
+    "eventNameEN": "Yellow Fin (high season)",
+    "eventNameES": "Temporada alta del atún de aleta amarilla",
+    "locationES": "Queensland, Nueva Gales del Sur y Victoria",
+    "descriptionES": "Llegó la temporada alta del atún de aleta amarilla. Ve y pesca el atún de tu vida. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Llegó el momento de ir a la costa con la esperanza de capturar el atún de aleta amarilla más grande hasta ahora."
+  },
+  {
+    "id": "event-206",
+    "eventNameEN": "Wings Over the Prairie Festival",
+    "eventNameES": "Wings Over the Prairie Festival",
+    "locationES": "Stuttgart, Arkansas",
+    "descriptionES": "Una de las exposiciones al aire libre más grandes del sur: la 90.ª edición anual del Wings Over the Prairie Festival. Dirígete a Stuttgart y celebra esta ocasión trascendental con compras, comida, cerveza, un carnaval y, por supuesto, un concurso de llamado de patos.",
+    "notificationES": "Celebra el 90.º aniversario del Wings Over the Prairie Festival."
+  },
+  {
+    "id": "event-207",
+    "eventNameEN": "The Great British Shoot Show",
+    "eventNameES": "The Great British Shoot Show",
+    "locationES": "Birmingham, Reino Unido",
+    "descriptionES": "La exposición minorista de tiro más grande del Reino Unido. Explora más de 2,000 marcas en un mismo lugar, mientras que los expertos de la industria te equipan con todo lo que necesitas para tu próxima aventura.",
+    "notificationES": "Dirígete a Birmingham para asistir a la exposición minorista de tiro más grande del Reino Unido."
+  },
+  {
+    "id": "event-208",
+    "eventNameEN": "Rendezvous Jackson Hole",
+    "eventNameES": "Rendezvous, Jackson Hole",
+    "locationES": "Jackson Hole, Wyoming",
+    "descriptionES": "Un festival de música de dos días en la base del Jackson Hole Mountain Resort, en la\nhistórica Jackson Town Square.",
+    "notificationES": "No hay nada mejor que un festival de música en Jackson Hole. Consigue tus boletos."
+  },
+  {
+    "id": "event-209",
+    "eventNameEN": "Big Bass Tour - Pickwick Lake",
+    "eventNameES": "Big Bass Tour - Pickwick Lake",
+    "locationES": "Pickwick Lake, Alabama/Mississippi/Tennessee",
+    "descriptionES": "El Big Bass Tour ofrece a pescadores de todos los niveles la oportunidad de ganar. Los róbalos pueden pesarse cada hora durante todo este evento de 3 días.",
+    "notificationES": "Pescar. Pesar. Liberar. Los pesajes por hora y la posibilidad de ganar más premios en efectivo hacen que no quieras perderte este evento de 3 días."
+  },
+  {
+    "id": "event-210",
+    "eventNameEN": "Arc'Teryx Alpine Academy",
+    "eventNameES": "Arc'Teryx Alpine Academy",
+    "locationES": "Squamish, Columbia Británica",
+    "descriptionES": "Perfecciona tus habilidades alpinas en la Arc'Teryx Alpine Academy. Aquí aprenderás de los mejores y te relacionarás con otras personas que comparten tu pasión por las actividades al aire libre.",
+    "notificationES": "Mejora tus habilidades alpinas en la Arc'Teryx Alpine Academy."
+  },
+  {
+    "id": "event-211",
+    "eventNameEN": "Arc'Teryx Backcountry Academy",
+    "eventNameES": "Arc'Teryx Backcountry Academy",
+    "locationES": "Mammoth, California",
+    "descriptionES": "Perfecciona tus habilidades de esquí de montaña en la Arc'Teryx Backcountry Academy. Aquí aprenderás de los mejores y te relacionarás con otras personas que comparten tu pasión por las actividades al aire libre.",
+    "notificationES": "Mejora tus habilidades de esquí de montaña en la Arc'Teryx Backcountry Academy."
+  },
+  {
+    "id": "event-212",
+    "eventNameEN": "FWT - VAL THORENS PRO",
+    "eventNameES": "FWT, VAL THORENS PRO",
+    "locationES": "Val Thorens, Francia",
+    "descriptionES": "Observa a los mejores del mundo hacer lo imposible en el circuito mundial de snowboard y esquí fuera de pista. Se enfrentarán a lo largo y ancho del planeta en legendarios paisajes alpinos y renombrados centros de esquí para competir contra los mejores.",
+    "notificationES": "La leyenda comienza aquí. Sintoniza el Freeride World Tour Pro."
+  },
+  {
+    "id": "event-213",
+    "eventNameEN": "Arc'Teryx Climbing Academy",
+    "eventNameES": "Arc'Teryx Climbing Academy",
+    "locationES": "Chamonix, Francia",
+    "descriptionES": "Aquí aprenderás a escalar de la mano de guías con experiencia y atletas de clase mundial. Así que prepárate para escalar por primera vez o para perfeccionar tus habilidades.",
+    "notificationES": "Mejora tus habilidades de escalada en la Arc'Teryx Climbing Academy."
+  },
+  {
+    "id": "event-214",
+    "eventNameEN": "Crazy Mountain Ultra",
+    "eventNameES": "Crazy Mountain Ultra",
+    "locationES": "Crazy Mountains, Montana",
+    "descriptionES": "Una maratón de 100 millas (161 km) tan difícil que necesitas clasificar para poder participar. De principio a fin, este evento es posible gracias a los Apsáalooke, el servicio de tierras, el servicio forestal y dos familias ganaderas.",
+    "notificationES": "Entrena duro, porque Crazy no es para débiles. Toca para ver en qué te estás metiendo."
+  },
+  {
+    "id": "event-215",
+    "eventNameEN": "GoPro Mountain Games",
+    "eventNameES": "GoPro Mountain Games",
+    "locationES": "Vail, Colorado",
+    "descriptionES": "Este evento, que se lleva a cabo en Vail, Colorado, lo tiene todo: deportes de aventura, música y arte.",
+    "notificationES": "Deportes extremos y mucho más te esperan en los GoPro Mountain Games. Obtén tus boletos."
+  },
+  {
+    "id": "event-216",
+    "eventNameEN": "RnD",
+    "eventNameES": "RnD",
+    "locationES": "Whitewater, Columbia Británica",
+    "descriptionES": "Forma parte de la comunidad de montaña. No importa quién seas ni dónde esquíes, perteneces a un lugar que te haga sonreír durante todo el día. Envía tu video para tener la oportunidad de competir por un puesto en el Natural Selection o ver a tu esquiador o snowboarder favorito llegar a la cima.",
+    "notificationES": "La montaña te llama. Hazle caso y ve a Whitewater, Columbia Británica, para el RnD."
+  },
+  {
+    "id": "event-217",
+    "eventNameEN": "Metro Rock - Dark Horse Bouldering Championship",
+    "eventNameES": "MetroRock, campeonato Dark Horse Bouldering",
+    "locationES": "Everett, Massachusetts",
+    "descriptionES": "Aquí finalmente coronaremos a un campeón. Ve al ganador o conviértete en uno en la principal competencia de escalada en bloque de Nueva Inglaterra, en Everett, Massachusetts.",
+    "notificationES": "Sé testigo de la coronación de un campeón en la competencia Dark Horse Bouldering de MetroRock."
+  },
+  {
+    "id": "event-218",
+    "eventNameEN": "Snowbird Opening Day",
+    "eventNameES": "Día de apertura del Snowbird",
+    "locationES": "Snowbird, Utah",
+    "descriptionES": "Con más de 2,500 acres (1,011 hectáreas) de superficie y 3,240 pies (988 metros) de pendiente, el Snowbird posee algunas de las mejores pistas de la cordillera Wasatch. Ve al día de apertura y disfruta de la mejor nieve en polvo de tu vida.",
+    "notificationES": "Despiértate con nieve fresca el día de apertura del Snowbird."
+  },
+  {
+    "id": "event-219",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Tempe",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Tempe, Arizona, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Tempe, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-220",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Mineápolis",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Mineápolis, Minnesota, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Mineápolis, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-221",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Boston",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Boston, Massachusetts, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Boston, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-222",
+    "eventNameEN": "The Basser All Star Classic",
+    "eventNameES": "Basser All Star Classic",
+    "locationES": "Japón",
+    "descriptionES": "El evento del campeonato de róbalos reúne a más de 30 de los mejores pescadores de róbalos de Japón que compiten por un trofeo.",
+    "notificationES": "Dirígete a Japón para ver a algunos de los mejores pescadores de róbalos del país."
+  },
+  {
+    "id": "event-223",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Washington, D. C.",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Washington, D. C., podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "D. C., ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-224",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Seattle",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Seattle, Washington, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Seattle, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-225",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Salt Lake City",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Salt Lake City, Utah, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Salt Lake City, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-226",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Brooklyn",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Brooklyn, Nueva York, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Brooklyn, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-227",
+    "eventNameEN": "Rebelle Rally",
+    "eventNameES": "Rebelle Rally",
+    "locationES": "Mammoth, California",
+    "descriptionES": "El primer rally raid todoterreno para mujeres en los Estados Unidos. Esta competencia de 8 días desafía a las conductoras en más que solo velocidad.",
+    "notificationES": "¡Que comience la aventura todoterreno! Sintoniza el Rebelle Rally."
+  },
+  {
+    "id": "event-228",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Austin",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Austin, Texas, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Austin, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-229",
+    "eventNameEN": "Boulderfest",
+    "eventNameES": "Boulderfest",
+    "locationES": "Dallas",
+    "descriptionES": "Una celebración de la comunidad de escalada con una competencia para escaladores adultos de todos los niveles de habilidad. Organizado en Dallas, Texas, podrás disfrutar de todo esto, además de música, sorteos y carritos con comida deliciosa.",
+    "notificationES": "Dallas, ya llegó el Boulderfest. Consigue tus boletos."
+  },
+  {
+    "id": "event-230",
+    "eventNameEN": "Crested Butte Film Festival",
+    "eventNameES": "Crested Butte Film Festival",
+    "locationES": "Crested Butte, Colorado",
+    "descriptionES": "Una celebración de películas, comunidad y desfiles en bicicleta durante este festival anual de 4 días en Crested Butte, Colorado.",
+    "notificationES": "Cine, comunidad y desfiles en bicicleta. Consigue tus boletos para el Crested Butte Film Festival."
+  },
+  {
+    "id": "event-231",
+    "eventNameEN": "Wasatch Mountain Film Festival",
+    "eventNameES": "Wasatch Mountain Film Festival",
+    "locationES": "Salt Lake City, Utah",
+    "descriptionES": "El festival de cine de aventura de Utah. El Wasatch Mountain Film Festival selecciona y exhibe los mejores documentales sobre actividades al aire libre que amplían los horizontes y cuentan historias impactantes desde la perspectiva de la aventura.",
+    "notificationES": "Obtén tu dosis de aventura en el Wasatch Mountain Film Festival."
+  },
+  {
+    "id": "event-232",
+    "eventNameEN": "The Rut",
+    "eventNameES": "The Rut",
+    "locationES": "Bozeman, Montana",
+    "descriptionES": "Corre por las montañas de Montana a lo largo de los impresionantes senderos de Big Sky Ski Resort. Este maratón de 3 días cuenta con carreras que van desde los 11 km hasta los 50 km.",
+    "notificationES": "Corre por las montañas de Montana durante The Rut."
+  },
+  {
+    "id": "event-233",
+    "eventNameEN": "Arc'Teryx Freeride Academy",
+    "eventNameES": "Arc'Teryx Freeride Academy",
+    "locationES": "St. Anton, Austria",
+    "descriptionES": "Perfecciona tus habilidades de esquí fuera de pista en montaña en la Arc'Teryx Backcountry Academy. Aquí aprenderás de los mejores y te relacionarás con otras personas que comparten tu pasión por las actividades al aire libre.",
+    "notificationES": "Mejora tus habilidades de esquí de montaña fuera de pista en la Arc'Teryx Backcountry Academy."
+  },
+  {
+    "id": "event-234",
+    "eventNameEN": "Gambler Days",
+    "eventNameES": "Gambler Days",
+    "locationES": "Austin, TX",
+    "descriptionES": "El equipo de jinetes profesionales de toros de Austin defiende su territorio de algunos de los mejores equipos del mundo.",
+    "notificationES": "¿Podrá defender su territorio el equipo de jinetes profesionales de toros de Austin? Obtén boletos y averígualo."
+  },
+  {
+    "id": "event-235",
+    "eventNameEN": "YETI Junior World Finals",
+    "eventNameES": "YETI Junior World Finals",
+    "locationES": "Las Vegas",
+    "descriptionES": "Llegó el momento de pelear por la hebilla. Visita el Centro de Convenciones de Las Vegas para ver a más de 800 de los mejores jóvenes del mundo competir por más de un millón de dólares en pagos entre efectivo y premios.",
+    "notificationES": "Llegó el momento de pelear por la hebilla. Sé testigo de la historia en las YETI Junior World Finals."
+  },
+  {
+    "id": "event-236",
+    "eventNameEN": "GAMEX",
+    "eventNameES": "GAMEX",
+    "locationES": "Australia Occidental",
+    "descriptionES": "El evento de pesca más grande y prestigioso de Australia Occidental. Ya en su 56.ª edición, en GAMEX se han registrado más récords estatales, nacionales y mundiales que en cualquier otro torneo australiano de pesca.",
+    "notificationES": "Sintoniza para ver quién ganará en 25 categorías diferentes de captura, clase de línea, etiquetado y liberación, y más."
+  },
+  {
+    "id": "event-237",
+    "eventNameEN": "Murray Cray Season",
+    "eventNameES": "Inicio de la temporada de cangrejo del Murray",
+    "locationES": "Nueva Gales del Sur",
+    "descriptionES": "La tan esperada temporada del cangrejo de río del Murray va de junio a agosto en Nueva Gales del Sur, pero consulta a las autoridades locales para conocer las regulaciones exactas. Es esencial preservar esta especie.",
+    "notificationES": "Ya comenzó la temporada de pesca."
+  },
+  {
+    "id": "event-238",
+    "eventNameEN": "Southern Rock Lobster Season (female)",
+    "eventNameES": "Temporada de la langosta de roca del sur (hembra)",
+    "locationES": "Costas del sur de Australia y Nueva Zelanda",
+    "descriptionES": "Las langostas de roca hembra solo pueden capturarse durante este período para proteger a aquellas que llevan huevos durante el período de desove. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Dirígete a la costa para capturar: llegó la temporada de la langosta."
+  },
+  {
+    "id": "event-239",
+    "eventNameEN": "Salmon Season Peak",
+    "eventNameES": "Pico de la temporada de salmón",
+    "locationES": "Australia",
+    "descriptionES": "En Australia, se puede capturar salmón durante todo el año. Sin embargo, la mejor época es el invierno, justo antes de la primavera. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Los salmones más grandes son más comunes en estos meses más fríos. ¡Llegó la mejor época!"
+  },
+  {
+    "id": "event-240",
+    "eventNameEN": "WSL: J-Bay Classic",
+    "eventNameES": "WSL J-Bay Classic",
+    "locationES": "Bahía de Jeffreys, Cabo Oriental, Sudáfrica",
+    "descriptionES": "El J-Bay Classic, una celebración de la cultura del surf, se lleva a cabo en la Bahía de Jeffreys, famosa por sus puntos de quiebre que rompen hacia la derecha.",
+    "notificationES": "Empaca tu traje de neopreno completo y tu chaqueta para celebrar la cultura del surf en el J-Bay Classic de la WSL este año."
+  },
+  {
+    "id": "event-241",
+    "eventNameEN": "Bill Pickett Invitational \n“The Greatest Show on Dirt”\nRodeo",
+    "eventNameES": "Bill Pickett Invitational \n“El mejor espectáculo sobre la arena”\nRodeo",
+    "locationES": "Washington, D. C.",
+    "descriptionES": "Acompáñanos a celebrar y honrar la cultura de los vaqueros y las vaqueras afroamericanos, así como sus contribuciones al oeste. Conocido como “el mejor espectáculo sobre la arena”, en este rodeo se pueden ver no solo concursos de lazo y monta, sino también educación entretenida y la buena aventura del viejo oeste.",
+    "notificationES": "Finaliza la temporada de BPIR en “el mejor espectáculo sobre la arena”."
+  },
+  {
+    "id": "event-242",
+    "eventNameEN": "Abalone Season",
+    "eventNameES": "Temporada de abulón",
+    "locationES": "Tasmania",
+    "descriptionES": "Se pueden capturar abulones en las zonas de buceo reguladas si tienes una licencia de pesca recreativa vigente. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de pesca en Tasmania."
+  },
+  {
+    "id": "event-243",
+    "eventNameEN": "AFTA Tackle Show",
+    "eventNameES": "AFTA Tackle Show",
+    "locationES": "Gold Coast, Queensland",
+    "descriptionES": "El AFTA Tackle Show regresa en 2025, con dos días para mayoristas y minoristas y una emocionante jornada para el público general. Echa un vistazo a nuevos productos, ponte al día con los expertos de la industria y disfruta de la fabulosa Costa Dorada.",
+    "notificationES": "Dirígete al AFTA Tackle Show en la Costa Dorada para conseguir equipo nuevo para la temporada."
+  },
+  {
+    "id": "event-244",
+    "eventNameEN": "Trout Season",
+    "eventNameES": "Temporada de trucha",
+    "locationES": "Australia",
+    "descriptionES": "La temporada de trucha varía en Australia, pero esta especie es más activa durante los meses más fríos. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de pesca."
+  },
+  {
+    "id": "event-245",
+    "eventNameEN": "Murray Cod Season",
+    "eventNameES": "Bacalao del Murray",
+    "locationES": "Victoria y Nueva Gales del Sur",
+    "descriptionES": "La temporada de pesca del bacalao del Murray comienza oficialmente el 1 de septiembre, después del fin de la temporada anual de reproducción de tres meses. Ahora que esta icónica especie autóctona para pesca deportiva terminó su ciclo de reproducción, se espera que muchos pescadores aprovechen la oportunidad para tirar la caña durante el verano. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Es hora de preparar el cebo: llegó la temporada del bacalao del Murray."
+  },
+  {
+    "id": "event-246",
+    "eventNameEN": "Southern Rock Lobster (male)",
+    "eventNameES": "Langosta de roca del sur (macho)",
+    "locationES": "Costas del sur de Australia y Nueva Zelanda",
+    "descriptionES": "Las langostas de roca macho solo pueden capturarse durante este período para protegerlas durante el período de muda, cuando tienen los caparazones blandos y son más vulnerables. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "La temporada de la langosta de roca del sur macho es corta. Dirígete a la costa del sur."
+  },
+  {
+    "id": "event-247",
+    "eventNameEN": "Sailfish Season",
+    "eventNameES": "Temporada del pez vela",
+    "locationES": "Australia Occidental y Queensland",
+    "descriptionES": "La pesca de pez vela en Australia es muy variable durante todo el año. La temporada alta va de octubre a enero. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Si quieres captura un pez vela grande esta temporada, este es el momento."
+  },
+  {
+    "id": "event-248",
+    "eventNameEN": "Abalone Season",
+    "eventNameES": "Temporada de abulón",
+    "locationES": "Victoria",
+    "descriptionES": "Se pueden capturar abulones en las zonas de buceo reguladas si tienes una licencia de pesca recreativa vigente. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de pesca en Victoria."
+  },
+  {
+    "id": "event-249",
+    "eventNameEN": "Abalone & Sea Urchin Season",
+    "eventNameES": "Temporada del abulón y del erizo de mar",
+    "locationES": "Australia Occidental",
+    "descriptionES": "Las fechas y las ubicaciones varían. Los pescadores recreativos solo pueden pescar o capturar abulones y erizos de mar durante la temporada de pesca. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de pesca."
+  },
+  {
+    "id": "event-250",
+    "eventNameEN": "Meatstock Toowoomba",
+    "eventNameES": "Meatstock Toowoomba",
+    "locationES": "Queensland - Toowoomba",
+    "descriptionES": "La carne se combina con la música en el impresionante festival de parrillada de Australia y Nueva Zelanda, que tendrá lugar en Toowoomba, Queensland.",
+    "notificationES": "Es hora del gran festival de carne y música de Australia y Nueva Zelanda, en Toowoomba, Queensland."
+  },
+  {
+    "id": "event-251",
+    "eventNameEN": "Hot Luck",
+    "eventNameES": "Hot Luck",
+    "locationES": "Austin, Texas",
+    "descriptionES": "Fundado por el parrillero leyenda Aaron Franklin, este festival de cuatro días es una combinación de música en vivo, aventura culinaria y tiempo de calidad para compartir con algunos de tus chefs favoritos de todo el país.",
+    "notificationES": "Pásalo bien con tus chefs favoritos mientras pruebas su comida en este festival de cuatro días."
+  },
+  {
+    "id": "event-252",
+    "eventNameEN": "Lockhart Rising",
+    "eventNameES": "Lockhart Rising",
+    "locationES": "Lockhart, Texas",
+    "descriptionES": "Lockhart Rising, ubicado en la nueva sede central de Mill Scale Metalworks, reúne a algunas de sus bandas y chefs favoritos para disfrutar de cócteles, música y un banquete a fuego vivo.",
+    "notificationES": "Música en vivo, fuegos vivos y cócteles. Es hora del Lockhart Rising."
+  },
+  {
+    "id": "event-253",
+    "eventNameEN": "Meatstock Bendigo",
+    "eventNameES": "Meatstock Bendigo",
+    "locationES": "Victoria - Bendigo",
+    "descriptionES": "La carne se combina con la música en el impresionante festival de parrillada de Australia y Nueva Zelanda, que tendrá lugar en Bendigo, Victoria.",
+    "notificationES": "Es hora del gran festival de carne y música de Nueva Zelanda y Australia en Bendigo, Victoria."
+  },
+  {
+    "id": "event-254",
+    "eventNameEN": "Meatstock Sydney",
+    "eventNameES": "Meatstock Sídney",
+    "locationES": "Sídney, Nueva Gales del Sur",
+    "descriptionES": "La carne se combina con la música en el impresionante festival de parrillada de Australia y Nueva Zelanda, que tendrá lugar en Sídney, Nueva Gales del Sur.",
+    "notificationES": "Es hora del gran festival de carne y música de Australia y Nueva Zelanda en Sídney, Nueva Gales del Sur."
+  },
+  {
+    "id": "event-255",
+    "eventNameEN": "Red Stag Roar",
+    "eventNameES": "Red Stag Roar (Rugido del ciervo rojo)",
+    "locationES": "Isla Sur, Nueva Zelanda y Patagonia, Argentina",
+    "descriptionES": "Persigue ciervos durante la mejor época del año, de marzo a abril, durante el otoño en el hemisferio sur.",
+    "notificationES": "Finalmente llegó el momento. Caza un ciervo en plena temporada de rugidos."
+  },
+  {
+    "id": "event-256",
+    "eventNameEN": "CrossFit Games",
+    "eventNameES": "CrossFit Games",
+    "locationES": "Por determinar",
+    "descriptionES": "La mejor prueba para encontrar a los hombres y las mujeres más en forma del mundo.",
+    "notificationES": "¿Qué tan en forma puede estar una persona? Obtén boletos para averiguarlo."
+  },
+  {
+    "id": "event-257",
+    "eventNameEN": "The Rogue Invitational",
+    "eventNameES": "El Rogue Invitational",
+    "locationES": "Por determinar",
+    "descriptionES": "Competencia invitacional anual de CrossFit y Strongman para hombres y mujeres.",
+    "notificationES": "Mira competir a los atletas más en forma del mundo en el Rogue Invitational."
+  },
+  {
+    "id": "event-258",
+    "eventNameEN": "Last Chance for Spring Turkey",
+    "eventNameES": "Última oportunidad para cazar pavos de primavera",
+    "locationES": "Míchigan",
+    "descriptionES": "La temporada de pavos salvajes ya casi termina. Consulta las reglamentaciones locales para conocer las fechas exactas.",
+    "notificationES": "Esta es tu última oportunidad para cazar pavos en primavera. Te esperamos en Míchigan."
+  },
+  {
+    "id": "event-259",
+    "eventNameEN": "Duck Hunting Season",
+    "eventNameES": "Caza de patos",
+    "locationES": "Sur de Australia",
+    "descriptionES": "Ya comenzó la temporada de caza de patos para quienes tienen permisos de febrero a junio. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de caza en el sur de Australia."
+  },
+  {
+    "id": "event-260",
+    "eventNameEN": "Duck Hunting Season",
+    "eventNameES": "Caza de patos",
+    "locationES": "Victoria",
+    "descriptionES": "Ya comenzó la temporada de caza de patos para quienes tienen permisos de marzo a junio. Consulta a las autoridades locales para conocer las regulaciones actualizadas.",
+    "notificationES": "Ya comenzó la temporada de caza en Victoria."
+  },
+  {
+    "id": "event-261",
+    "eventNameEN": "Red Stag Rut",
+    "eventNameES": "Temporada de apareamiento del ciervo rojo",
+    "locationES": "Nueva Zelanda",
+    "descriptionES": "Los ciervos rojos tienen un período de apareamiento corto que dura solo tres o cuatro semanas y comienza a finales de marzo o principios de abril. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Finalmente llegó el momento. Caza un ciervo durante la temporada de apareamiento."
+  },
+  {
+    "id": "event-262",
+    "eventNameEN": "Samba Deer - Hound Hunting Season Open",
+    "eventNameES": "Ciervo sambar: inicio de la temporada de caza con perros",
+    "locationES": "Victoria",
+    "descriptionES": "La temporada de caza del ciervo sambar, el más grande de Australia, con perros sabuesos está limitada al período entre el 1 de abril y el 30 de noviembre de cada año, con algunas exclusiones. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de caza en Victoria."
+  },
+  {
+    "id": "event-263",
+    "eventNameEN": "Quail Hunting Season",
+    "eventNameES": "Temporada de caza de codorniz",
+    "locationES": "Australia (excepto Tasmania)",
+    "descriptionES": "La temporada de caza de codorniz pectoral está programada para cuando la población está en su punto máximo y así evitar los períodos de vulnerabilidad. El cierre de la temporada está previsto para evitar la caza durante la reproducción, la muda, las temperaturas extremas y la escasez de alimentos. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de caza en Australia."
+  },
+  {
+    "id": "event-264",
+    "eventNameEN": "Hog Deer Season",
+    "eventNameES": "Temporada de caza del ciervo porcino",
+    "locationES": "Victoria",
+    "descriptionES": "La temporada anual tiene lugar durante el mes de abril, lo cual se programa para minimizar el impacto en la productividad de crías. Victoria es uno de los pocos lugares donde se puede practicar la caza de poblaciones salvajes de ciervos porcinos en libertad en tierras públicas. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de caza en Victoria."
+  },
+  {
+    "id": "event-265",
+    "eventNameEN": "Tahr Rut",
+    "eventNameES": "Temporada de apareamiento de la cabra del Himalaya",
+    "locationES": "Nueva Zelanda",
+    "descriptionES": "La mejor época para cazar cabras del Himalaya es durante estos meses para aprovechar la temporada de apareamiento. Además, en este momento, los ejemplares machos lucen su pelaje de invierno. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Prepárate para la aventura. La temporada de apareamiento de la cabra del Himalaya está en pleno apogeo."
+  },
+  {
+    "id": "event-266",
+    "eventNameEN": "Deer Rut",
+    "eventNameES": "Temporada de apareamiento del ciervo",
+    "locationES": "Australia",
+    "descriptionES": "Sin duda, la época más productiva y emocionante para cazar ciervos como trofeo es durante la temporada de apareamiento. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Prepárate para la aventura. La temporada de apareamiento del ciervo está en pleno apogeo en Australia."
+  },
+  {
+    "id": "event-267",
+    "eventNameEN": "Duck hunting Season",
+    "eventNameES": "Temporada de caza de patos",
+    "locationES": "Nueva Zelanda",
+    "descriptionES": "La temporada de caza de patos en Nueva Zelanda va de mayo a julio y generalmente coincide con la mejor época para la caza de muchas especies grandes. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Ya comenzó la temporada de caza."
+  },
+  {
+    "id": "event-268",
+    "eventNameEN": "Water Buffalo Season",
+    "eventNameES": "Temporada de caza del búfalo de agua",
+    "locationES": "Queensland y Territorio del Norte, Australia",
+    "descriptionES": "La caza de búfalos de agua en el norte de Australia tiene lugar de junio a octubre debido a la temporada de lluvias, que generalmente termina en mayo. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "La caza del búfalo de agua es una aventura incomparable de cacería de especies grandes. Nos vemos allí."
+  },
+  {
+    "id": "event-269",
+    "eventNameEN": "Banteng Season",
+    "eventNameES": "Temporada de caza del banteng",
+    "locationES": "Territorio del Norte y Queensland",
+    "descriptionES": "Australia es el único lugar del mundo donde se puede cazar el banteng, y el Territorio del Norte es donde se encuentra la población más grande de esta especie. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Llegó la temporada de sequía, lo que significa que es hora de salir a buscar un banteng."
+  },
+  {
+    "id": "event-270",
+    "eventNameEN": "Bore Season",
+    "eventNameES": "Temporada de caza de jabalíes",
+    "locationES": "Queensland, Territorio del Norte y oeste de Australia",
+    "descriptionES": "Los jabalíes buscan alimento durante el día en los meses más fríos, pero esto puede hacer que se dispersen y sean más difíciles de localizar. Durante los incómodos meses de más calor, los jabalíes son más predecibles: van y vienen al agua durante la noche, cuando el clima es más templado, para buscar comida. Consulta a las autoridades locales para conocer las regulaciones exactas.",
+    "notificationES": "Esto significa que, durante los meses más cálidos, los jabalíes son más fáciles de cazar."
+  },
+  {
+    "id": "event-271",
+    "eventNameEN": "RendezVan",
+    "eventNameES": "RendezVan",
+    "locationES": "Por determinar",
+    "descriptionES": "Una celebración del esquí de primavera y la cultura única de la vida en camioneta en el Mt. Bachelor. Incluye música en vivo, juegos sobre el césped, competencias fuera de la nieve, carritos de comida locales, un bar completo y vendedores de artículos para la vida en camioneta.",
+    "notificationES": "Celebra la vida en camioneta y el esquí de primavera este año en el RendezVan."
+  },
+  {
+    "id": "event-272",
+    "eventNameEN": "USA Climbing YETI Nationals",
+    "eventNameES": "USA Climbing YETI Nationals",
+    "locationES": "Salt Lake City, Utah",
+    "descriptionES": "Organizado por el Centro Nacional de Entrenamiento de USA Climbing en Salt Lake City, Utah. Aquí los escaladores de todo el país competirán en 6 campeonatos en las disciplinas de escalada en bloque, dificultad y velocidad. También comenzarán a ganar puntos para la selección del equipo nacional en la primavera.",
+    "notificationES": "Volvieron los YETI National Climbing Championships. Consigue tus boletos."
+  },
+  {
+    "id": "event-272",
+    "eventNameEN": "USA Climbing YETI Nationals",
+    "eventNameES": "USA Climbing YETI Nationals",
+    "locationES": "Salt Lake City, Utah",
+    "descriptionES": "Los escaladores clasificados en varias pruebas se enfrentarán por los títulos nacionales, los puntos para la selección del equipo nacional y los premios.",
+    "notificationES": "¿Quién se llevará el título? Sintoniza para ver quién ganará el título de campeón nacional."
+  },
+  {
+    "id": "event-273",
+    "eventNameEN": "Uninvited Euro Open",
+    "eventNameES": "Abierto de Europa de Uninvited",
+    "locationES": "Mutters, Austria",
+    "descriptionES": "Una competencia de snowboard femenino llena de acción en la que se destacan los mejores talentos de Europa. Las principales competidoras ganarán un lugar en The Uninvited Invitational.",
+    "notificationES": "Sintoniza en directo para saber quién clasificará para The Uninvited Invitational."
+  },
+  {
+    "id": "event-274",
+    "eventNameEN": "Uninvited North American Open",
+    "eventNameES": "Abierto de Norteamérica de Uninvited",
+    "locationES": "Silver Star Resort, Canadá",
+    "descriptionES": "Una competencia de snowboard femenino llena de acción en la que se destacan los mejores talentos de Norteamérica. Las principales competidoras ganarán un lugar en The Uninvited Invitational.",
+    "notificationES": "Sintoniza en directo para saber quién clasificará para The Uninvited Invitational."
+  },
+  {
+    "id": "event-275",
+    "eventNameEN": "Uninvited Asia Open",
+    "eventNameES": "Abierto de Asia de Uninvited",
+    "locationES": "Mellow Park, China",
+    "descriptionES": "Una competencia de snowboard femenino llena de acción en la que se destacan los mejores talentos de Asia. Las principales competidoras ganarán un lugar en The Uninvited Invitational.",
+    "notificationES": "Sintoniza en directo para saber quién clasificará para The Uninvited Invitational."
+  },
+  {
+    "id": "event-276",
+    "eventNameEN": "Transfer Banked Slalom",
+    "eventNameES": "Transfer Banked Slalom",
+    "locationES": "Región de Alpine, Nueva Gales del Sur",
+    "descriptionES": "Asegura tu lugar en la 11.ª edición anual del “torneo de los giros”, el encuentro no oficial del snowboard australiano.",
+    "notificationES": "Prepárate para “The Tournament of Turns” y descubre quién subirá al podio."
+  },
+  {
+    "id": "event-277",
+    "eventNameEN": "Cowboy Christmas",
+    "eventNameES": "Cowboy Christmas",
+    "locationES": "En todo el país",
+    "descriptionES": "Como Navidad, pero en julio. Mira a tu vaquero favorito luchar por su legado (y su billetera) mientras pasa dos semanas persiguiendo los rodeos mejor pagos durante la temporada de verano.",
+    "notificationES": "Cowboy Christmas está por llegar. Alienta a tu vaquero o vaquera favoritos durante la época más intensa del verano."
+  },
+  {
+    "id": "event-278",
+    "eventNameEN": "Break A Wave",
+    "eventNameES": "Break A Wave",
+    "locationES": "San Luis Obispo, CA",
+    "descriptionES": "Un evento como ningún otro. Una competencia de lazo en la playa organizada por el equipo de rodeo de la Universidad Politécnica Estatal de California.",
+    "notificationES": "¿Alguna vez has visto una competencia de lazo en la playa? Toca para conocer detalles."
+  },
+  {
+    "id": "event-279",
+    "eventNameEN": "Festival Western",
+    "eventNameES": "Festival Western",
+    "locationES": "St. Tite, Quebec",
+    "descriptionES": "Votado como el mejor festival y rodeo en Norteamérica. Viaja a Quebec para vivir una experiencia única.",
+    "notificationES": "Descubre por qué fue votado como el mejor festival y rodeo de Norteamérica."
+  },
+  {
+    "id": "event-280",
+    "eventNameEN": "Art of the Cowgirl",
+    "eventNameES": "Art of the Cowgirl",
+    "locationES": "Wickenburg, AZ",
+    "descriptionES": "Con más de 75 vendedoras, celebramos y nos reunimos para honrar a las mujeres del oeste. Hay talleres y clínicas diseñados para presentar y preservar las artes y los oficios tradicionales del oeste.",
+    "notificationES": "Las contribuciones de estas vaqueras creadoras realmente merecen ser celebradas."
+  },
+  {
+    "id": "event-281",
+    "eventNameEN": "ABCRA Rodeo Finals",
+    "eventNameES": "ABCRA Rodeo Finals",
+    "locationES": "Tamworth, Nueva Gales del Sur",
+    "descriptionES": "Los atletas de rodeo más fuertes de Australia se enfrentan cara a cara en la arena principal del AELEC para tres días y noches de rodeo llenos de adrenalina.",
+    "notificationES": "Mantente atento para ver a algunos de los vaqueros y vaqueras más fuertes de Australia."
+  },
+  {
+    "id": "event-282",
+    "eventNameEN": "PBR Championship Tour",
+    "eventNameES": "PBR Championship Tour",
+    "locationES": "Australia",
+    "descriptionES": "¡Experimenta la adrenalina electrizante de PBR! Esta es tu oportunidad de ver a talentosos jinetes enfrentarse a poderosos toros en esta competencia imperdible.",
+    "notificationES": "¡Que vengan los toros! Ve a una de las paradas de la gira de PBR en Australia."
+  },
+  {
+    "id": "event-283",
+    "eventNameEN": "ABCRA Campdraft Finals",
+    "eventNameES": "ABCRA Campdraft Finals",
+    "locationES": "North Star, Nueva Gales del Sur",
+    "descriptionES": "National Finals Campdraft es uno de los eventos más grandes de campdraft en el que cientos de jinetes compiten cada año. Los jinetes compiten durante todo el año para acumular puntos, y los que más obtienen reciben una invitación para competir en las finales nacionales.",
+    "notificationES": "Ve a los mejores jinetes júnior y sénior del país enfrentarse cara a cara."
+  },
+  {
+    "id": "event-284",
+    "eventNameEN": "WSL: Snapper Rocks",
+    "eventNameES": "WSL: Snapper Rocks",
+    "locationES": "Queensland, Australia",
+    "descriptionES": "Un icónico punto de quiebre, rodeado de una rica cultura del surf, Snapper Rocks es conocida por ser una de las olas más largas y espectaculares del mundo.",
+    "notificationES": "No te pierdas la sexta parada del World Surf Tour: Snapper Rocks Pro."
+  },
+  {
+    "id": "event-285",
+    "eventNameEN": "WSL: Trestles Pro",
+    "eventNameES": "WSL: Trestles",
+    "locationES": "San Clemente, CA",
+    "descriptionES": "Lower Trestles es ahora una parada habitual en la gira de la WSL.",
+    "notificationES": "Mantente atento y mira competir a la World Surf League en Trestles Pro."
+  },
+  {
+    "id": "event-286",
+    "eventNameEN": "West Coast Wax Up presented by YETI",
+    "eventNameES": "West Coast Wax Up, presentado por YETI",
+    "locationES": "Surf Coast, Victoria",
+    "descriptionES": "Evento tradicional de tabla larga, en el que más de 60 competidores luchan por el premio en efectivo. El evento incluye una exhibición donde los surfistas demuestran sus habilidades y una ronda de “team extravaganza”.",
+    "notificationES": "Celebra el surf con tabla larga tradicional con nosotros en Surf Coast, Victoria."
+  },
+  {
+    "id": "event-287",
+    "eventNameEN": "Koori Surf Titles",
+    "eventNameES": "Koori Surf Titles",
+    "locationES": "Surf Coast, Victoria",
+    "descriptionES": "Una competencia de surf indígena que se celebra hace más de 25 años y atrae a surfistas de todo el país para competir por el prestigioso trofeo en 14 divisiones.",
+    "notificationES": "Celebra el surf y la cultura del surf junto a las comunidades indígenas en la 27.ª competencia anual."
+  },
+  {
+    "id": "event-288",
+    "eventNameEN": "Aotearoa Surf Film Festival",
+    "eventNameES": "Aotearoa Surf Film Festival",
+    "locationES": "Nueva Zelanda",
+    "descriptionES": "ASFF es el festival anual de surf de Nueva Zelanda que se lleva a cabo a fines del verano. Siguiendo el estilo auténtico de los neozelandeses, una cuidadosa selección de películas, documentales y cortometrajes de surf neozelandeses e internacionales llega al público.",
+    "notificationES": "Lo mejor de la cultura y el cine del surf, todo en un festival."
+  },
+  {
+    "id": "event-289",
+    "eventNameEN": "Australian Surf Season",
+    "eventNameES": "Temporada de surf australiana",
+    "locationES": "WA, SA, VIC, TAS, QLD y NSW",
+    "descriptionES": "Desde la poderosa fuerza de las olas de Australia Occidental hasta los puntos de quiebre perfectos de Queensland, las playas urbanas de Sídney y las maravillosas aguas frías de Victoria, Australia, ofrecen una ola para cada tipo de surfista. Ningún otro país ofrece una aventura de surf con tanta variedad, constancia y belleza.",
+    "notificationES": "Elige tu propia aventura. Diferentes partes de Australia ofrecen las condiciones de surf perfectas para principiantes y profesionales."
+  },
+  {
+    "id": "event-290",
+    "eventNameEN": "St. Paul Rodeo",
+    "eventNameES": "St. Paul Rodeo",
+    "locationES": "St. Paul, OR",
+    "descriptionES": "Una tradición del 4 de julio en Oregón, St. Paul Rodeo es un evento imperdible durante el verano para aquellos en el noroeste. Al ofrecer un evento de rodeo de clase mundial en honor al legado del oeste, cada año la comunidad y las organizaciones sin fines de lucro se benefician del St. Paul Rodeo por más de 250,000 USD.",
+    "notificationES": "Obtén tus boletos para el St. Paul Rodeo y celebra el comienzo de Cowboy Christmas este verano."
+  },
+  {
+    "id": "event-291",
+    "eventNameEN": "Jurassic Classic",
+    "eventNameES": "Jurassic Classic",
+    "locationES": "Chilliwack, Columbia Británica",
+    "descriptionES": "El Wild Sheep Jurassic Classic es un evento de pesca para proteger a las ovejas salvajes en la Columbia Británica. Es una colaboración entre la Wild Sheep Society of BC (WSSBC) y la Guide Outfitter Association of BC, con el apoyo de la Wild Sheep Foundation. El evento incluye pesca de esturión, conservación y sorteos.",
+    "notificationES": "Acompáñanos en el encuentro anual de pesca de esturión en el majestuoso río Fraser."
+  },
+  {
+    "id": "event-292",
+    "eventNameEN": "Surf Nationals",
+    "eventNameES": "Surf Nationals",
+    "locationES": "Tofino, BC",
+    "descriptionES": "El Surf Canada Nationals, también conocido como el Rip Curl Nationals, es una competencia de surf de tres días en la que se define la selección nacional de surf de Canadá.",
+    "notificationES": "¡Mantente atento para ver quién será convocado para la selección!"
+  },
+  {
+    "id": "event-293",
+    "eventNameEN": "Toronto Sportsmen's Show",
+    "eventNameES": "Toronto Sportsmen’s Show",
+    "locationES": "Toronto, Ontario",
+    "descriptionES": "El Toronto Sportsmen’s Show es un reconocido evento de actividades al aire libre en Canadá en el que se ofrecen productos y servicios para pescadores, cazadores, navegantes, campistas y otros entusiastas de la naturaleza.",
+    "notificationES": "Disfruta de la naturaleza en la feria de pesca, caza, navegación, actividades al aire libre y deportes favorita de Canadá."
+  },
+  {
+    "id": "event-294",
+    "eventNameEN": "Quebec City Outdoor, Hunting, Fishing and Camping Show",
+    "eventNameES": "Quebec City Outdoor, Hunting, Fishing and Camping Show",
+    "locationES": "Ciudad de Quebec, Quebec",
+    "descriptionES": "Disfruta de la mejor exhibición de actividades al aire libre de Quebec. Acompáñanos en la feria de actividades al aire libre, caza, pesca y camping más grande en el mismo lugar de la Quebec Boat Show y prepárate para tu próxima aventura emocionante.",
+    "notificationES": "Invitamos a expertos del ámbito y novatos. ¡Nos vemos en la ciudad de Quebec!"
+  },
+  {
+    "id": "event-295",
+    "eventNameEN": "PBR Canada National Finals",
+    "eventNameES": "PBR Canada National Finals",
+    "locationES": "Por determinar",
+    "descriptionES": "¡Experimenta la adrenalina electrizante de PBR! Esta es tu oportunidad de ver a talentosos jinetes enfrentarse a poderosos toros en esta competencia imperdible.",
+    "notificationES": "¡Que vengan los toros! Ve a PBR en Canadá."
+  },
+  {
+    "id": "event-296",
+    "eventNameEN": "Ruck in the Shulaps",
+    "eventNameES": "Ruck in the Shulaps",
+    "locationES": "Por determinar",
+    "descriptionES": "El evento Ruck in the Shulaps de la Wild Sheep Society of British Columbia (WSSBC) es una actividad en la que los conservacionistas rastrean las ovejas salvajes en la cordillera de Shulaps a fin de recopilar información para los biólogos. La WSSBC es una organización que trabaja para proteger a las ovejas salvajes en Columbia Británica.",
+    "notificationES": "Únete a nosotros para rastrear ovejas salvajes en la cordillera de Shulaps."
+  },
+  {
+    "id": "event-297",
+    "eventNameEN": "Empire Games",
+    "eventNameES": "Empire Games",
+    "locationES": "Por determinar",
+    "descriptionES": "Un encuentro para esquiadores y snowboarders de todos los niveles de habilidad que incluye pruebas de productos, charlas de expertos y eventos gratuitos. Algunos de los eventos incluyen YETI Hip Jam, Banked Slalom e Empire Rail Jam.",
+    "notificationES": "Acompáñanos a celebrar nuestra pasión por el snowboard en dos eventos durante el invierno."
+  },
+  {
+    "id": "event-298",
+    "eventNameEN": "Great Ontario Salmon Derby",
+    "eventNameES": "Great Ontario Salmon Derby",
+    "locationES": "Por determinar",
+    "descriptionES": "El Great Ontario Salmon Derby es un evento sin fines de lucro que se lleva a cabo en el lago Ontario con el mismo formato desde 1996. El legendario Great Ontario Salmon Derby sigue generando ingresos para todas las comunidades de la costa norte del lago Ontario.",
+    "notificationES": "Acompáñanos a apoyar la pesca de salmón en el lago Ontario."
+  }
+]

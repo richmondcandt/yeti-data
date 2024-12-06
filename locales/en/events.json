@@ -1,0 +1,13 @@
+{
+  "helperText": "Choose the events you want on your calendar.",
+  "selectAll": "Select All",
+  "saveAndDownload": "Save & Download",
+  "next": "Next",
+  "download": "Download",
+  "filterTitle": "Filter",
+  "showAllPursuits": "Show All Categories",
+  "eventSingular": "Event",
+  "eventPlural": "Events",
+  "apply": "Apply",
+  "noResultText": "We couldn't find any events based on your selections."
+}
